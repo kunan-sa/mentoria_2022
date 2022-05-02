@@ -1,0 +1,1943 @@
+,Hospital,Tel_hospital,Body,Status,SentDate,Fecha,Dia,Mes,Hora,Messages,Direction,Appointment_msp,Appointment,Cancellation_msp,Cancelled,consult,Consult_Appoint,fail_HH_sms,Fail_HH,achieve_HH,Got_HH,Cupo,Full_turnos_obra_social,No_Relation,No_Correlation,has_error,Error_Interno,has_error_501,Error_501,falla_api_externo,Falla_Api_Externo,alta_dni,not_DNI,issue_name,Issue_Name,ask_kunan,Ask_Kunan,many_fallbacks_goto_hh,Many_Fallbacks_Goto_HH,From_anon,To_anon
+0,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 20:52:07+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+1,Carra,whatsapp:+5493515266217," tu turno de CLINICA MEDICA ha sido confirmado para la fecha 22/02/2022 a las 18:00 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Parente Sabrina",read,2022-02-16 20:52:06+00:00,2022-02-16,16,2,20,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+2,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 20:52:04+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4686,3359
+3,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: CLINICA MEDICA 
+  Doctor: Parente Sabrina 
+  Fecha y hora: 22/02/2022 a las 18:00 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 20:51:59+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+4,Carra,whatsapp:+5493515266217,2,received,2022-02-16 20:51:58+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4686,3359
+5,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 22/02/2022 a las 17:15 hrs
+ *2*- 22/02/2022 a las 18:00 hrs
+ *3*- 22/02/2022 a las 19:00 hrs
+ *4*- 28/02/2022 a las 18:15 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 20:51:00+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+6,Carra,whatsapp:+5493515266217,21,received,2022-02-16 20:50:59+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4686,3359
+7,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *17*- Dr./Dra. Zabala, Jorge
+ *18*- Dr./Dra. Giletta, Gabriela
+ *20*- Dr./Dra. Gomez , Jorge
+ *21*- Dr./Dra. Parente, Sabrina
+ *80*- Dr./Dra. Berardo, Orlando
+ *0*- Volver atrás",read,2022-02-16 20:50:42+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+8,Carra,whatsapp:+5493515266217,132,received,2022-02-16 20:50:42+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4686,3359
+9,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA
+ *0*- Empezar de nuevo.",read,2022-02-16 20:49:13+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+10,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-02-16 20:49:13+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+11,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 20:49:12+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4686,3359
+12,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PAMI 
+    Plan: CAPITA 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 20:49:06+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+13,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-02-16 20:49:06+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4686,3359
+14,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 20:48:48+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+15,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-02-16 20:48:48+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+16,Carra,whatsapp:+5493515266217,XXXXXXX,received,2022-02-16 20:48:42+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4686,3359
+17,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-02-16 20:48:18+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4546
+18,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-02-16 20:48:18+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4686,3359
+19,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",delivered,2022-02-16 20:40:42+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+20,Salud Consultorios,whatsapp:+5493515266230,"Hubo un error, intentá más tarde.",delivered,2022-02-16 20:40:42+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,"['hubo un error, intentá más tarde']",1,[],0,[],0,[],0,[],0,3464,3984
+21,Salud Consultorios,whatsapp:+5493515266230,si,received,2022-02-16 20:40:35+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+22,Salud Consultorios,whatsapp:+5493515266230,"¡Muchas gracias! Tus datos son: 
+  Sede: Tucumán 98 Esq.Bs.As., Villa Carlos Paz 
+  Especialidad: GINECOLOGIA 
+  Doctor: Tripolone Saker Julian 
+  Fecha y hora: 22/03/2022 a las 08:30 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",delivered,2022-02-16 20:40:23+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+23,Salud Consultorios,whatsapp:+5493515266230,4,received,2022-02-16 20:40:23+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+24,Los Cedros,whatsapp:+5491120401203,XXX,received,2022-02-16 20:34:43+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,842,5
+25,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 15/03/2022 a las 09:15 hrs
+ *2*- 15/03/2022 a las 10:30 hrs
+ *3*- 15/03/2022 a las 11:15 hrs
+ *4*- 22/03/2022 a las 08:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",delivered,2022-02-16 20:14:48+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+26,Salud Consultorios,whatsapp:+5493515266230,57,received,2022-02-16 20:14:45+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+27,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 20:13:24+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1750
+28,CityBell,whatsapp:+5492215137770,Estamos fuera del horario de atención con operadores humanos.,read,2022-02-16 20:13:24+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,['fuera del horario'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1750
+29,CityBell,whatsapp:+5492215137770,Has seleccionado una práctica que requiere atención personalizada. Te solicito que hagas click en uno de los siguientes links según corresponda: *Ecodoppler / Ergometría ->*  https://walink.co/2cdadf ;  *Mamografía / Ecografía Mamaria ->*  https://walink.co/b7d460 y para *Resonancia Magnética ->*  https://walink.co/0748ed,read,2022-02-16 20:13:24+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1750
+30,CityBell,whatsapp:+5492215137770,Quiero hablar con un operador,received,2022-02-16 20:13:23+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1811,1665
+31,CityBell,whatsapp:+5492215137770,¿Te puedo ayudar con algo más?,read,2022-02-16 20:13:05+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1750
+32,CityBell,whatsapp:+5492215137770,"No se encuentra registrado ese DNI en el sistema. Para la admisión, por favor escriba: ""Quiero hablar con un operador"" y una vez transferido indiquenos su: DNI, Nombre y apellido, Fecha de nacimiento, E-Mail, Obra social, plan y nro de afiliado""",read,2022-02-16 20:13:05+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,1725,1750
+33,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 20:13:00+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1811,1665
+34,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 20:12:31+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1750
+35,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 20:12:31+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1811,1665
+36,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 20:12:22+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1750
+37,CityBell,whatsapp:+5492215137770,Por la tarde,received,2022-02-16 20:12:22+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1811,1665
+38,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 20:12:18+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1750
+39,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXXXX,received,2022-02-16 20:12:17+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1811,1665
+40,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 20:11:56+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1750
+41,CityBell,whatsapp:+5492215137770,Hola,received,2022-02-16 20:11:56+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1811,1665
+42,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 20:04:14+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2258
+43,CityBell,whatsapp:+5492215137770,Estamos fuera del horario de atención con operadores humanos.,read,2022-02-16 20:04:14+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,['fuera del horario'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2258
+44,CityBell,whatsapp:+5492215137770,Has seleccionado una práctica que requiere atención personalizada. Te solicito que hagas click en uno de los siguientes links según corresponda: *Ecodoppler / Ergometría ->*  https://walink.co/2cdadf ;  *Mamografía / Ecografía Mamaria ->*  https://walink.co/b7d460 y para *Resonancia Magnética ->*  https://walink.co/0748ed,read,2022-02-16 20:04:14+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2258
+45,CityBell,whatsapp:+5492215137770,Quiero hablar con un operador,received,2022-02-16 20:04:13+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2326,1665
+46,CityBell,whatsapp:+5492215137770,"No se encuentra registrado ese DNI en el sistema. Para la admisión, por favor escriba: ""Quiero hablar con un operador"" y una vez transferido indiquenos su: DNI, Nombre y apellido, Fecha de nacimiento, E-Mail, Obra social, plan y nro de afiliado""",read,2022-02-16 20:03:54+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,1725,2258
+47,CityBell,whatsapp:+5492215137770,¿Te puedo ayudar con algo más?,read,2022-02-16 20:03:54+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2258
+48,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 20:03:53+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2326,1665
+49,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 20:03:44+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2258
+50,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 20:03:44+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2326,1665
+51,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 20:03:31+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2258
+52,CityBell,whatsapp:+5492215137770,Hola,received,2022-02-16 20:03:30+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2326,1665
+53,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *6*- Dr./Dra. BALDACCINI, JUAN DE LA CRUZ
+ *15*- Dr./Dra. CAPOVILLA, CLAUDIA PATRICIA
+ *33*- Dr./Dra. LOPEZ, HECTOR OSCAR
+ *41*- Dr./Dra. PONCE, MACARENA
+ *57*- Dr./Dra. TRIPOLONE, SAKER JULIAN
+ *61*- Dr./Dra. BARAVALLE, MARIA EUGENIA
+ *89*- Dr./Dra. MELCHIOR, AGUSTINA
+ *0*- Volver atrás",delivered,2022-02-16 20:03:28+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+54,Salud Consultorios,whatsapp:+5493515266230,135,received,2022-02-16 20:03:27+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+55,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *125*- CARDIOLOGIA
+ *126*- CLINICA MEDICA
+ *127*- DERMATOLOGIA
+ *128*- DIABETOLOGIA
+ *130*- ENDOCRINOLOGIA
+ *132*- FLEBOLOGIA
+ *134*- GASTROENTEROLOGIA
+ *135*- GINECOLOGIA
+ *136*- INFECTOLOGIA
+ *138*- NEUMONOLOGIA
+ *139*- NEUROLOGIA
+ *142*- OFTALMOLOGIA
+ *143*- OTORRINOLARINGOLOGIA
+ *144*- PEDIATRIA
+ *146*- PSIQUIATRIA
+ *147*- REUMATOLOGIA
+ *149*- TRAUMATOLOGIA
+ *150*- UROLOGIA
+ *200*- PRACTICAS MEDICAS
+ *201*- LABORATORIO
+ *202*- DIAGNOSTICO POR IMAGENES
+ *203*- FONOAUDIOLOGIA
+ *204*- PSICOLOGIA
+ *205*- FISIOTERAPIA
+ *206*- ALERGIA
+ *207*- EMMAC UAR APTO DEPORTIVO
+ *0*- Empezar de nuevo.",delivered,2022-02-16 20:02:22+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+56,Salud Consultorios,whatsapp:+5493515266230,Quedaron guardados tus datos.,delivered,2022-02-16 20:02:22+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+57,Salud Consultorios,whatsapp:+5493515266230,si,received,2022-02-16 20:02:21+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+58,Salud Consultorios,whatsapp:+5493515266230,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PARTICULAR 
+    Plan: UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",delivered,2022-02-16 20:02:06+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+59,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXXXXXXX,received,2022-02-16 20:02:06+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+60,Salud Consultorios,whatsapp:+5493515266230,Ya te encontrás registrado.,delivered,2022-02-16 20:01:47+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+61,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",delivered,2022-02-16 20:01:47+00:00,2022-02-16,16,2,20,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+62,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-02-16 20:01:42+00:00,2022-02-16,16,2,20,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+63,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",delivered,2022-02-16 19:55:46+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+64,Salud Consultorios,whatsapp:+5493515266230,sacar turno,received,2022-02-16 19:55:45+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+65,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",delivered,2022-02-16 19:55:13+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+66,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",delivered,2022-02-16 19:55:13+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+67,Salud Consultorios,whatsapp:+5493515266230,"Hubo un error, intentá más tarde.",delivered,2022-02-16 19:55:13+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,"['hubo un error, intentá más tarde']",1,[],0,[],0,[],0,[],0,3464,3984
+68,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-02-16 19:55:07+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+69,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",delivered,2022-02-16 19:53:05+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+70,Salud Consultorios,whatsapp:+5493515266230,sacar turno,received,2022-02-16 19:53:01+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+71,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:52:10+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,4065
+72,Salud Consultorios,whatsapp:+5493515266230,Hola buenas tardes,received,2022-02-16 19:52:10+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4197,3360
+73,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:49:52+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+74,Carra,whatsapp:+5493515266217," tu turno de OTORRINOLARINGOLOGIA ha sido confirmado para la fecha 18/02/2022 a las 19:15 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Zorzi Fernando",read,2022-02-16 19:49:52+00:00,2022-02-16,16,2,19,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+75,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 19:49:50+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+76,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: OTORRINOLARINGOLOGIA 
+  Doctor: Zorzi Fernando 
+  Fecha y hora: 18/02/2022 a las 19:15 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:49:47+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+77,Carra,whatsapp:+5493515266217,3,received,2022-02-16 19:49:46+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+78,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 17/02/2022 a las 19:45 hrs
+ *2*- 18/02/2022 a las 17:30 hrs
+ *3*- 18/02/2022 a las 19:15 hrs
+ *4*- 21/02/2022 a las 18:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 19:48:07+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+79,Carra,whatsapp:+5493515266217,51,received,2022-02-16 19:48:05+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+80,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *51*- Dr./Dra. Zorzi, Fernando
+ *52*- Dr./Dra. Fraire, Maria Emilia
+ *127*- Dr./Dra. RACCA, GASTON OSCAR
+ *0*- Volver atrás",read,2022-02-16 19:48:01+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+81,Carra,whatsapp:+5493515266217,6,received,2022-02-16 19:48:00+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+82,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 25/02/2022 a las 09:30 hrs
+ *2*- 01/03/2022 a las 08:15 hrs
+ *3*- 01/03/2022 a las 09:15 hrs
+ *4*- 01/03/2022 a las 10:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 19:47:48+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+83,Carra,whatsapp:+5493515266217,52,received,2022-02-16 19:47:46+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+84,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *51*- Dr./Dra. Zorzi, Fernando
+ *52*- Dr./Dra. Fraire, Maria Emilia
+ *127*- Dr./Dra. RACCA, GASTON OSCAR
+ *0*- Volver atrás",read,2022-02-16 19:47:38+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+85,Carra,whatsapp:+5493515266217,156,received,2022-02-16 19:47:37+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+86,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA
+ *0*- Empezar de nuevo.",read,2022-02-16 19:47:23+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+87,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-02-16 19:47:22+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+88,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 19:47:22+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+89,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: JERARQUICOS SALUD 
+    Plan: EXENTO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:47:14+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+90,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-02-16 19:47:13+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+91,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 19:46:43+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+92,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-02-16 19:46:43+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+93,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-02-16 19:46:41+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+94,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:46:14+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4626
+95,Carra,whatsapp:+5493515266217,Buenas tardes!,received,2022-02-16 19:46:14+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4767,3359
+96,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-02-16 19:46:01+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,3218
+97,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-02-16 19:46:00+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3314,3359
+98,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:43:58+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+99,CityBell,whatsapp:+5492215137770," tu turno de OBSTETRICIA ha sido confirmado para la fecha 21/03/2022 a las 16:00 hrs, en Calle 474 N583 entre 14a y 14b City Bell, con Dr./Dra. Gorriti Claudia",read,2022-02-16 19:43:58+00:00,2022-02-16,16,2,19,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+100,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 19:43:56+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1153,1665
+101,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son: 
+  Sede: Calle 474 N583 entre 14a y 14b City Bell 
+  Especialidad: OBSTETRICIA 
+  Doctor: Gorriti Claudia 
+  Fecha y hora: 21/03/2022 a las 16:00 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:43:30+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+102,CityBell,whatsapp:+5492215137770,2,received,2022-02-16 19:43:29+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1153,1665
+103,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 21/03/2022 a las 15:20 hrs
+ *2*- 21/03/2022 a las 16:00 hrs
+ *3*- 21/03/2022 a las 16:40 hrs
+ *4*- 28/03/2022 a las 14:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 19:42:53+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+104,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,read,2022-02-16 19:42:51+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+105,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 19:42:51+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1153,1665
+106,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: IOMA OBLIG. 
+    Plan: GENERAL 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:42:21+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+107,CityBell,whatsapp:+5492215137770,Obra social ospe,received,2022-02-16 19:42:20+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1153,1665
+108,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: I.O.M.A. ( AF. OBLIGATORIOS ) 
+    Plan: GENERAL 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:41:44+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+109,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXX,received,2022-02-16 19:41:43+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1153,1665
+110,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 19:40:49+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+111,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-02-16 19:40:49+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+112,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 19:40:47+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1153,1665
+113,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 19:40:30+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+114,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 19:40:29+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1153,1665
+115,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:39:37+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1106
+116,CityBell,whatsapp:+5492215137770,"Hola, necesito un turno con la doctora gorriti",received,2022-02-16 19:39:36+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1153,1665
+117,Salud Consultorios,whatsapp:+5493515266230,¿Te puedo ayudar con algo más?,read,2022-02-16 19:33:30+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3633
+118,Salud Consultorios,whatsapp:+5493515266230,"No se encuentra registrado ese DNI en el sistema. Para admisión escriba aqui, ""Quiero hablar con un operador"" e indiquenos su dni, nombre y apellido y obra social",read,2022-02-16 19:33:29+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,3464,3633
+119,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-02-16 19:33:27+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3745,3360
+120,CityBell,whatsapp:+5492215137770,Hola! Este es un mensaje automático. Me encuentro de licencia durante toda esta semana. Disculpas. Bárbara.,received,2022-02-16 19:33:19+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2459,1665
+121,CityBell,whatsapp:+5492215137770,"Buenas tardes, por favor enviar los datos requeridos para poder registrarlo...",delivered,2022-02-16 19:33:17+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2391
+122,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",read,2022-02-16 19:33:17+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3633
+123,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXXXXX,received,2022-02-16 19:33:16+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3745,3360
+124,Salud Consultorios,whatsapp:+5493515266230,¿Te puedo ayudar con algo más?,read,2022-02-16 19:32:26+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3633
+125,Salud Consultorios,whatsapp:+5493515266230,"No se encuentra registrado ese DNI en el sistema. Para admisión escriba aqui, ""Quiero hablar con un operador"" e indiquenos su dni, nombre y apellido y obra social",read,2022-02-16 19:32:26+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,3464,3633
+126,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-02-16 19:32:23+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3745,3360
+127,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",read,2022-02-16 19:32:04+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3633
+128,Salud Consultorios,whatsapp:+5493515266230,Tu sesión se ha reinciado por tiempo de inactividad. Voy a tener que pedirte tus datos nuevamente 📝,read,2022-02-16 19:32:04+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3633
+129,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXXXXX,received,2022-02-16 19:32:03+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3745,3360
+130,Salud Consultorios,whatsapp:+5493515266230,hasta,read,2022-02-16 19:30:19+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3796
+131,Salud Consultorios,whatsapp:+5493515266230,la doctora atiende asta las 12:00hs,read,2022-02-16 19:30:15+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3796
+132,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *153*- CIRUGÍA PEDIÁTRICA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *162*- ENDOCRINOLOGÍA
+ *168*- ALERGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *231*- CARDIOLOGIA PEDIATRICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *252*- TRAUMATOLOGIA INFANTIL
+ *253*- DERMATOLOGIA PEDIATRICA
+ *254*- OFTALMOLOGIA PEDIATRICA
+ *255*- NEUROLOGÌA PEDIATRICA
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA
+ *0*- Empezar de nuevo.",read,2022-02-16 19:26:37+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+133,CityBell,whatsapp:+5492215137770,0,received,2022-02-16 19:26:36+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+134,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1039*- Dr./Dra. GARGANTA, JUAN JOSE
+ *2136*- Dr./Dra. VADILLO, MARIA RITA
+ *0*- Volver atrás",read,2022-02-16 19:26:25+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+135,CityBell,whatsapp:+5492215137770,6,received,2022-02-16 19:26:24+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+136,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 12/04/2022 a las 17:40 hrs
+ *2*- 12/04/2022 a las 18:40 hrs
+ *3*- 12/04/2022 a las 19:20 hrs
+ *4*- 19/04/2022 a las 17:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 19:26:13+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+137,CityBell,whatsapp:+5492215137770,2136,received,2022-02-16 19:26:12+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+138,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1039*- Dr./Dra. GARGANTA, JUAN JOSE
+ *2136*- Dr./Dra. VADILLO, MARIA RITA
+ *0*- Volver atrás",read,2022-02-16 19:26:04+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+139,CityBell,whatsapp:+5492215137770,5,received,2022-02-16 19:26:04+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+140,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 06/04/2022 a las 15:15 hrs
+ *2*- 06/04/2022 a las 16:00 hrs
+ *3*- 06/04/2022 a las 17:00 hrs
+ *4*- Mostrar más fechas
+ *5*- Volver atrás",read,2022-02-16 19:25:50+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+141,CityBell,whatsapp:+5492215137770,1039,received,2022-02-16 19:25:48+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+142,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1039*- Dr./Dra. GARGANTA, JUAN JOSE
+ *2136*- Dr./Dra. VADILLO, MARIA RITA
+ *0*- Volver atrás",read,2022-02-16 19:25:34+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+143,CityBell,whatsapp:+5492215137770,148,received,2022-02-16 19:25:33+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+144,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *153*- CIRUGÍA PEDIÁTRICA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *162*- ENDOCRINOLOGÍA
+ *168*- ALERGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *231*- CARDIOLOGIA PEDIATRICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *252*- TRAUMATOLOGIA INFANTIL
+ *253*- DERMATOLOGIA PEDIATRICA
+ *254*- OFTALMOLOGIA PEDIATRICA
+ *255*- NEUROLOGÌA PEDIATRICA
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA
+ *0*- Empezar de nuevo.",read,2022-02-16 19:25:12+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+145,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,read,2022-02-16 19:25:12+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+146,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 19:25:12+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+147,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: OSDE 
+    Plan: AMBULATORIO OBLIGATORIOS 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:24:44+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+148,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXXX,received,2022-02-16 19:24:44+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+149,CityBell,whatsapp:+5492215137770,"Perdón, no sé si entendí correctamente 🤔 Tu intención es decir...",read,2022-02-16 19:24:22+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+150,CityBell,whatsapp:+5492215137770,"*Escriba la opción* que usted quiere realizar:  
+▪️ Quiero cambiar el medico.
+▪️ Quiero cambiar mi obra social.
+▪️ *Reiniciar* la conversación. 
+▪️ Quiero comunicarme con un *operador humano*.",read,2022-02-16 19:24:22+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+151,CityBell,whatsapp:+5492215137770,Cambiar celular,received,2022-02-16 19:24:21+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+152,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: O.S.D.E. 
+    Plan: AMBULATORIO OBLIGATORIOS 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:23:48+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+153,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXX,received,2022-02-16 19:23:47+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+154,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 19:23:22+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+155,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-02-16 19:23:22+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+156,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 19:23:19+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+157,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 19:23:04+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+158,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 19:23:03+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+159,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:22:47+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1080
+160,CityBell,whatsapp:+5492215137770,Hola buenas tardes,received,2022-02-16 19:22:46+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1126,1665
+161,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",delivered,2022-02-16 19:22:04+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3984
+162,Salud Consultorios,whatsapp:+5493515266230,Buenas! quisiera pedir un turno con el DR. TRIPOLONE?,received,2022-02-16 19:22:02+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4112,3360
+163,CityBell,whatsapp:+5492215137770,Necesito hacerme un electrocardiograma,received,2022-02-16 19:22:00+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2459,1665
+164,CityBell,whatsapp:+5492215137770,"Fuiste transferido a un humano, por favor escribí tu consulta.",delivered,2022-02-16 19:21:47+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,['fuiste transferido a un humano'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2391
+165,CityBell,whatsapp:+5492215137770,Has seleccionado una práctica que requiere atención personalizada. Te solicito que hagas click en uno de los siguientes links según corresponda: *Ecodoppler / Ergometría ->*  https://walink.co/2cdadf ;  *Mamografía / Ecografía Mamaria ->*  https://walink.co/b7d460 y para *Resonancia Magnética ->*  https://walink.co/0748ed,delivered,2022-02-16 19:21:47+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2391
+166,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXXXXXXXXXXXX,received,2022-02-16 19:21:46+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2459,1665
+167,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:21:34+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2457
+168,CityBell,whatsapp:+5492215137770,No,received,2022-02-16 19:21:33+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2528,1665
+169,CityBell,whatsapp:+5492215137770,Necesito tu email para transferirte a un operador humano.,delivered,2022-02-16 19:21:30+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2391
+170,CityBell,whatsapp:+5492215137770,Has seleccionado una práctica que requiere atención personalizada. Te solicito que hagas click en uno de los siguientes links según corresponda: *Ecodoppler / Ergometría ->*  https://walink.co/2cdadf ;  *Mamografía / Ecografía Mamaria ->*  https://walink.co/b7d460 y para *Resonancia Magnética ->*  https://walink.co/0748ed,delivered,2022-02-16 19:21:29+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2391
+171,CityBell,whatsapp:+5492215137770,Quiero hablar con un operador,received,2022-02-16 19:21:29+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2459,1665
+172,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 22/03/2022 a las 08:15 hrs
+ *2*- 22/03/2022 a las 09:00 hrs
+ *3*- 29/03/2022 a las 08:15 hrs
+ *4*- 29/03/2022 a las 09:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Mostrar fechas anteriores
+ *7*- Volver atrás",read,2022-02-16 19:21:21+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+173,CityBell,whatsapp:+5492215137770,5,received,2022-02-16 19:21:19+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+174,CityBell,whatsapp:+5492215137770,¿Te puedo ayudar con algo más?,delivered,2022-02-16 19:21:07+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2391
+175,CityBell,whatsapp:+5492215137770,"No se encuentra registrado ese DNI en el sistema. Para la admisión, por favor escriba: ""Quiero hablar con un operador"" y una vez transferido indiquenos su: DNI, Nombre y apellido, Fecha de nacimiento, E-Mail, Obra social, plan y nro de afiliado""",delivered,2022-02-16 19:21:07+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,1725,2391
+176,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 19:21:05+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2459,1665
+177,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",delivered,2022-02-16 19:20:59+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2391
+178,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 19:20:59+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2459,1665
+179,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",delivered,2022-02-16 19:20:46+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2391
+180,CityBell,whatsapp:+5492215137770,"Buenas, queria sacar turno para dos electrocardiogramas ( mí marido y yo?",received,2022-02-16 19:20:45+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2459,1665
+181,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 22/03/2022 a las 08:15 hrs
+ *2*- 22/03/2022 a las 09:00 hrs
+ *3*- 29/03/2022 a las 08:15 hrs
+ *4*- 29/03/2022 a las 09:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 19:20:36+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+182,CityBell,whatsapp:+5492215137770,1840,received,2022-02-16 19:20:34+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+183,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: OSDE 
+    Plan: 210 AF. OBLIGATORIOS 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:20:21+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2457
+184,CityBell,whatsapp:+5492215137770,IOMA,received,2022-02-16 19:20:20+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2528,1665
+185,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1840*- Dr./Dra. MATEO, MARIANA JOSE
+ *1871*- Dr./Dra. BANDIERA, MARIA CECILIA
+ *1872*- Dr./Dra. MARINO, MARIA INES
+ *0*- Volver atrás",read,2022-02-16 19:20:16+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+186,CityBell,whatsapp:+5492215137770,173,received,2022-02-16 19:20:15+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+187,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *153*- CIRUGÍA PEDIÁTRICA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *162*- ENDOCRINOLOGÍA
+ *168*- ALERGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *231*- CARDIOLOGIA PEDIATRICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *252*- TRAUMATOLOGIA INFANTIL
+ *253*- DERMATOLOGIA PEDIATRICA
+ *254*- OFTALMOLOGIA PEDIATRICA
+ *255*- NEUROLOGÌA PEDIATRICA
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA
+ *0*- Empezar de nuevo.",read,2022-02-16 19:20:09+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+188,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,read,2022-02-16 19:20:09+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+189,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 19:20:08+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+190,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: OBRA SOCIAL DEL PODER JUDICIAL 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:20:02+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+191,CityBell,whatsapp:+5492215137770,XXXXXXXXXX,received,2022-02-16 19:20:01+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+192,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 19:19:53+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+193,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-02-16 19:19:53+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+194,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 19:19:51+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+195,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:19:44+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2425
+196,CityBell,whatsapp:+5492215137770,Quedó cancelado tu turno de ALERGIA -                                   420110 con Dr./Dra. SORIA MARCELA (C) para el día 17/02/2022 a las 13:50 hrs.,read,2022-02-16 19:19:43+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,['cancelado tu turno de'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2425
+197,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 19:19:42+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2495,1665
+198,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 19:19:40+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+199,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 19:19:40+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+200,CityBell,whatsapp:+5492215137770,¿Querés cancelar el turno de ALERGIA -                                   420110 con Dr./Dra. SORIA MARCELA (C) para el día 17/02/2022 a las 13:50 hrs? Escribí si o no.,read,2022-02-16 19:19:32+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2425
+201,CityBell,whatsapp:+5492215137770,1,received,2022-02-16 19:19:32+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2495,1665
+202,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: OSDE 
+    Plan: 210 AF. OBLIGATORIOS 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:19:29+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2457
+203,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:19:29+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+204,CityBell,whatsapp:+5492215137770,Cambiar dato: Obra social: IOMA,received,2022-02-16 19:19:28+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2528,1665
+205,CityBell,whatsapp:+5492215137770,Hola,received,2022-02-16 19:19:28+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+206,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: ALERGIA -                                   420110 con Dr./Dra. SORIA MARCELA (C) el día 17/02/2022 a las 13:50 hrs en Calle 474 N583 entre 14a y 14b City Bell, .",read,2022-02-16 19:19:23+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2425
+207,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 19:19:19+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2495,1665
+208,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 19:19:07+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2425
+209,CityBell,whatsapp:+5492215137770,Cancelar turno,received,2022-02-16 19:19:06+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2495,1665
+210,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: O.S.D.E. 
+    Plan: 210 AF. OBLIGATORIOS 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:18:17+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2457
+211,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXXX,received,2022-02-16 19:18:16+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2528,1665
+212,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 19:17:48+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2457
+213,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-02-16 19:17:48+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2457
+214,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 19:17:46+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2528,1665
+215,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 19:17:33+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2457
+216,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 19:17:33+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2528,1665
+217,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:17:12+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2457
+218,CityBell,whatsapp:+5492215137770,Tu sesión se ha reinciado por tiempo de inactividad. Voy a tener que pedirte tus datos nuevamente 📝,read,2022-02-16 19:17:12+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2457
+219,CityBell,whatsapp:+5492215137770,Buenas tardes,received,2022-02-16 19:17:11+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2528,1665
+220,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:15:42+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+221,CityBell,whatsapp:+5492215137770," tu turno de OTORRINOLARINGOLOGIA ha sido confirmado para la fecha 12/04/2022 a las 18:30 hrs, en Calle 474 N583 entre 14a y 14b City Bell, con Dr./Dra. Vadillo Maria Rita",read,2022-02-16 19:15:42+00:00,2022-02-16,16,2,19,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+222,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 19:15:19+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+223,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son: 
+  Sede: Calle 474 N583 entre 14a y 14b City Bell 
+  Especialidad: OTORRINOLARINGOLOGIA 
+  Doctor: Vadillo Maria Rita 
+  Fecha y hora: 12/04/2022 a las 18:30 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:15:08+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+224,CityBell,whatsapp:+5492215137770,2,received,2022-02-16 19:15:08+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+225,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 12/04/2022 a las 17:40 hrs
+ *2*- 12/04/2022 a las 18:30 hrs
+ *3*- 12/04/2022 a las 19:10 hrs
+ *4*- 19/04/2022 a las 17:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Mostrar fechas anteriores
+ *7*- Volver atrás",read,2022-02-16 19:13:56+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+226,CityBell,whatsapp:+5492215137770,5,received,2022-02-16 19:13:54+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+227,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",delivered,2022-02-16 19:12:15+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+228,CityBell,whatsapp:+5492215137770,No pude entender el nombre del/la doctor/a.,delivered,2022-02-16 19:12:14+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+229,CityBell,whatsapp:+5492215137770,Dermatologa,received,2022-02-16 19:12:14+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+230,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",delivered,2022-02-16 19:12:06+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+231,CityBell,whatsapp:+5492215137770,6,received,2022-02-16 19:12:06+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+232,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 02/03/2022 a las 18:30 hrs
+ *2*- 09/03/2022 a las 16:00 hrs
+ *3*- 09/03/2022 a las 16:45 hrs
+ *4*- 09/03/2022 a las 17:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",delivered,2022-02-16 19:11:51+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+233,CityBell,whatsapp:+5492215137770,2190,received,2022-02-16 19:11:49+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+234,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 12/04/2022 a las 17:40 hrs
+ *2*- 12/04/2022 a las 18:30 hrs
+ *3*- 12/04/2022 a las 19:10 hrs
+ *4*- 19/04/2022 a las 17:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 19:11:48+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+235,CityBell,whatsapp:+5492215137770,2136,received,2022-02-16 19:11:46+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+236,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",delivered,2022-02-16 19:11:38+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+237,CityBell,whatsapp:+5492215137770,6,received,2022-02-16 19:11:37+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+238,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1039*- Dr./Dra. GARGANTA, JUAN JOSE
+ *2136*- Dr./Dra. VADILLO, MARIA RITA
+ *0*- Volver atrás",read,2022-02-16 19:11:37+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+239,CityBell,whatsapp:+5492215137770,2,received,2022-02-16 19:11:36+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+240,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- Cambiar mi obra social. 
+ *2*- Buscar otro doctor de la misma especialidad. 
+ *3*- Empezar de nuevo.",read,2022-02-16 19:11:26+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+241,CityBell,whatsapp:+5492215137770,"Lo siento, el/la especialista no atiende la obra social PODER JUDICIAL. Podés elegir una de las siguientes acciones:",read,2022-02-16 19:11:26+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+242,CityBell,whatsapp:+5492215137770,1039,received,2022-02-16 19:11:25+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+243,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 04/03/2022 a las 11:00 hrs
+ *2*- 04/03/2022 a las 11:40 hrs
+ *3*- 09/03/2022 a las 08:00 hrs
+ *4*- 09/03/2022 a las 09:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",delivered,2022-02-16 19:11:24+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+244,CityBell,whatsapp:+5492215137770,2321,received,2022-02-16 19:11:22+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+245,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1039*- Dr./Dra. GARGANTA, JUAN JOSE
+ *2136*- Dr./Dra. VADILLO, MARIA RITA
+ *0*- Volver atrás",read,2022-02-16 19:11:09+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+246,CityBell,whatsapp:+5492215137770,148,received,2022-02-16 19:11:08+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+247,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *153*- CIRUGÍA PEDIÁTRICA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *162*- ENDOCRINOLOGÍA
+ *168*- ALERGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *231*- CARDIOLOGIA PEDIATRICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *252*- TRAUMATOLOGIA INFANTIL
+ *253*- DERMATOLOGIA PEDIATRICA
+ *254*- OFTALMOLOGIA PEDIATRICA
+ *255*- NEUROLOGÌA PEDIATRICA
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA
+ *0*- Empezar de nuevo.",read,2022-02-16 19:10:55+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+248,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,read,2022-02-16 19:10:55+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+249,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 19:10:54+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+250,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PODER JUDICIAL 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:10:46+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+251,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXXXXX,received,2022-02-16 19:10:45+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+252,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: OBRA SOCIAL DEL PODER JUDICIAL 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 19:10:22+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+253,CityBell,whatsapp:+5492215137770,XXXXXXXXXX,received,2022-02-16 19:10:22+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+254,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 19:10:08+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+255,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-02-16 19:10:07+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+256,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",delivered,2022-02-16 19:10:05+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+257,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,delivered,2022-02-16 19:10:05+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+258,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 19:10:04+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+259,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 19:10:04+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+260,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: IOMA OBLIG. 
+    Plan: GENERAL 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",delivered,2022-02-16 19:09:57+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+261,CityBell,whatsapp:+5492215137770,4,received,2022-02-16 19:09:56+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+262,Salud Consultorios,whatsapp:+5493515266230,*Doy por finalizada la conversación!*,read,2022-02-16 19:09:51+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+263,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *4*- GENERAL
+ *128*- MAMI
+ *129*- SER
+ *135*- EPO 791 TANDIL
+ *136*- EPO 357 MAR DEL PLATA
+ *137*- EPO 826 TRENQUE LAUQUEN",delivered,2022-02-16 19:09:46+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+264,CityBell,whatsapp:+5492215137770,8068,received,2022-02-16 19:09:45+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+265,Salud Consultorios,whatsapp:+5493515266230,de nada,read,2022-02-16 19:09:23+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+266,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *8131*- PARTICULAR
+ *8232*- PEQ.FAM
+ *8144*- PERSON.FARMACIA
+ *8228*- PILA
+ *8113*- PODER JUDICIAL
+ *8208*- POLICIA FEDERAL
+ *8201*- PREVENC. SALUD
+ *8234*- PREVENCION ART
+ *8114*- PRIMEDIC
+ *8115*- PROVINCIA ART
+ *8164*- RAS
+ *8116*- SADAIC
+ *8214*- SANCOR SALUD
+ *8172*- SCIS
+ *8118*- SWISS MEDICAL
+ *8229*- TECHINT
+ *8085*- UNION PERSONAL
+ *8147*- UNLP-D.S.S.",delivered,2022-02-16 19:09:12+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+267,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *8199*- A.M.P.
+ *8073*- ACA SALUD
+ *8074*- ACEROS PARANA
+ *8072*- AMEBPA
+ *8134*- AMFFA
+ *8148*- APPI
+ *8135*- APRES
+ *8084*- APSOT
+ *8225*- ARANCEL LIBRE
+ *8166*- CAIME
+ *8070*- CAJA ABOGADOS
+ *8071*- CAJA ESCRIBANOS
+ *8091*- COMEI
+ *8186*- CUCAIBA
+ *8197*- DASMI
+ *8187*- DASUTEN
+ *8193*- DEPOSITO
+ *8139*- E.W.HOPE
+ *8157*- EDLP
+ *8136*- ELECTRIC.NAVAL
+ *8184*- FED.PAT.
+ *8098*- FEDERADA SALUD
+ *8087*- FEMEBA
+ *8217*- FEMEBA LYF
+ *8082*- FUTBOLISTAS
+ *8093*- GALENO
+ *8230*- GELP
+ *8108*- GILSA SRL
+ *8218*- HIP-LP
+ *8235*- HONORARIOS
+ *8194*- I.D. CITY BELL
+ *8149*- I.M.P.
+ *8192*- INST.MED.ARG.
+ *8125*- IOMA
+ *8068*- IOMA OBLIG.
+ *8069*- IOMA RECIPROCID
+ *8195*- IOMA TRANS
+ *8067*- IOMA VOL.COL.
+ *8066*- IOMA VOL.IND.
+ *8209*- IOMA VOLUNTARIOS
+ *8158*- IOMA-TRAM.EXCP.
+ *8233*- LA SEGUNDA ART
+ *8081*- LABOR
+ *8231*- LADRILLEROS
+ *8155*- LIQ. H*M
+ *8094*- LUIS PASTEUR
+ *8095*- MEDICUS
+ *8096*- MEDIFE
+ *8221*- MSPBA
+ *8215*- O.S.CERAMISTAS
+ *8080*- O.S.DEL CLERO
+ *8156*- O.S.TV
+ *8119*- ODONTOLOGIA U.N.L.P.
+ *8104*- OMINT
+ *8105*- OPDEA
+ *8146*- OPER.CINEMATOG.
+ *8076*- OSAPM
+ *8236*- OSCAP
+ *8129*- OSDE
+ *8140*- OSDIPP
+ *8141*- OSETYA
+ *8213*- OSFATUN
+ *8204*- OSIAD SALUD
+ *8207*- OSJERA
+ *8097*- OSMITA
+ *8075*- OSPE
+ *8099*- OSPEDYC
+ *8107*- OSPERYHRA
+ *8191*- OSPFESIQYP
+ *8169*- OSPIA
+ *8132*- OSPIDA
+ *8109*- OSPPRA
+ *8110*- OSPSA
+ *8111*- OSSEG
+ *8143*- OSVARA
+ *8121*- PAMI
+ *8222*- PAMI TRAM.EXC.
+ *8178*- PAMI-ECOBER
+ *8159*- PAMI-INST.DIAG.",delivered,2022-02-16 19:09:12+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+268,CityBell,whatsapp:+5492215137770,XXXXXXXXXX,received,2022-02-16 19:09:11+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+269,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 19:09:05+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+270,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 19:09:04+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+271,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,delivered,2022-02-16 19:09:01+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+272,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",delivered,2022-02-16 19:09:01+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+273,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 19:08:58+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+274,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",delivered,2022-02-16 19:08:51+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+275,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 19:08:50+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+276,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",delivered,2022-02-16 19:08:42+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2602
+277,CityBell,whatsapp:+5492215137770,Hola necesito sacar turno con una dermatologa,received,2022-02-16 19:08:41+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2674,1665
+278,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 19:07:33+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4139
+279,Carra,whatsapp:+5493515266217,Lo siento pero ese número no sería válido. Probá de nuevo.,read,2022-02-16 19:07:33+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4139
+280,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-02-16 19:07:33+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4273,3359
+281,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 19:07:25+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4139
+282,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-02-16 19:07:25+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4273,3359
+283,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 19:05:54+00:00,2022-02-16,16,2,19,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1777
+284,CityBell,whatsapp:+5492215137770,Buenos días,received,2022-02-16 19:05:53+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1838,1665
+285,Salud Consultorios,whatsapp:+5493515266230,No gracias sólo eso era,received,2022-02-16 19:04:00+00:00,2022-02-16,16,2,19,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3496,3360
+286,Carra,whatsapp:+5493515266217,"● Turno: PEDIATRIA con Dr./Dra. Magnoli Ana el día 17/02/2022 a las 17:45 hrs en nuestra sede Carrá, Bv. 9 de Julio 1501, S.Francisco,",read,2022-02-16 18:55:17+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+287,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:55:17+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+288,Carra,whatsapp:+5493515266217,Encontré los siguientos turnos asociados a la cuenta:,read,2022-02-16 18:55:17+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+289,Carra,whatsapp:+5493515266217,Estoy buscando tus turnos...,read,2022-02-16 18:55:17+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,['estoy buscando tus turnos'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+290,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-02-16 18:55:14+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+291,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-02-16 18:55:06+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+292,Carra,whatsapp:+5493515266217,Consultar mis turnos,received,2022-02-16 18:55:05+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+293,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:54:51+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+294,Carra,whatsapp:+5493515266217,0,received,2022-02-16 18:54:51+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+295,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA
+ *0*- Empezar de nuevo.",read,2022-02-16 18:54:47+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+296,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:54:47+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+297,CityBell,whatsapp:+5492215137770," tu turno de DERMATOLOGIA ha sido confirmado para la fecha 02/03/2022 a las 18:15 hrs, en Calle 474 N583 entre 14a y 14b City Bell, con Dr./Dra. Dubarry Maria Florencia",read,2022-02-16 18:54:47+00:00,2022-02-16,16,2,18,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+298,Carra,whatsapp:+5493515266217,0,received,2022-02-16 18:54:46+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+299,CityBell,whatsapp:+5492215137770,si,received,2022-02-16 18:54:43+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+300,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *57*- Dr./Dra. Patrignani, Jose Luis
+ *58*- Dr./Dra. Magnoli, Ana
+ *60*- Dr./Dra. Perassi, Diego
+ *61*- Dr./Dra. Zupel, Nery
+ *129*- Dr./Dra. LUCATO, AGOSTINA
+ *0*- Volver atrás",read,2022-02-16 18:54:41+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+301,Carra,whatsapp:+5493515266217,6,received,2022-02-16 18:54:41+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+302,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son: 
+  Sede: Calle 474 N583 entre 14a y 14b City Bell 
+  Especialidad: DERMATOLOGIA 
+  Doctor: Dubarry Maria Florencia 
+  Fecha y hora: 02/03/2022 a las 18:15 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:54:35+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+303,CityBell,whatsapp:+5492215137770,1,received,2022-02-16 18:54:34+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+304,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 02/03/2022 a las 18:15 hrs
+ *2*- 09/03/2022 a las 16:00 hrs
+ *3*- 09/03/2022 a las 16:45 hrs
+ *4*- 09/03/2022 a las 17:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:54:31+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+305,CityBell,whatsapp:+5492215137770,2190,received,2022-02-16 18:54:29+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+306,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",read,2022-02-16 18:54:22+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+307,CityBell,whatsapp:+5492215137770,6,received,2022-02-16 18:54:21+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+308,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 02/03/2022 a las 11:30 hrs
+ *2*- 02/03/2022 a las 19:45 hrs
+ *3*- 03/03/2022 a las 10:45 hrs
+ *4*- 03/03/2022 a las 11:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:54:16+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+309,Carra,whatsapp:+5493515266217,58,received,2022-02-16 18:54:14+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+310,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 04/03/2022 a las 11:00 hrs
+ *2*- 04/03/2022 a las 11:40 hrs
+ *3*- 09/03/2022 a las 08:00 hrs
+ *4*- 09/03/2022 a las 09:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:54:13+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+311,CityBell,whatsapp:+5492215137770,2321,received,2022-02-16 18:54:12+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+312,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",read,2022-02-16 18:54:08+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+313,CityBell,whatsapp:+5492215137770,6,received,2022-02-16 18:54:08+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+314,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 07/03/2022 a las 09:45 hrs
+ *2*- 07/03/2022 a las 10:45 hrs
+ *3*- 14/03/2022 a las 09:00 hrs
+ *4*- 14/03/2022 a las 09:45 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:54:02+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+315,CityBell,whatsapp:+5492215137770,2313,received,2022-02-16 18:54:00+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+316,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *57*- Dr./Dra. Patrignani, Jose Luis
+ *58*- Dr./Dra. Magnoli, Ana
+ *60*- Dr./Dra. Perassi, Diego
+ *61*- Dr./Dra. Zupel, Nery
+ *129*- Dr./Dra. LUCATO, AGOSTINA
+ *0*- Volver atrás",read,2022-02-16 18:53:59+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+317,Carra,whatsapp:+5493515266217,157,received,2022-02-16 18:53:58+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+318,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",read,2022-02-16 18:53:54+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+319,CityBell,whatsapp:+5492215137770,6,received,2022-02-16 18:53:53+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+320,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 02/03/2022 a las 18:15 hrs
+ *2*- 09/03/2022 a las 16:00 hrs
+ *3*- 09/03/2022 a las 16:45 hrs
+ *4*- 09/03/2022 a las 17:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:53:45+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+321,CityBell,whatsapp:+5492215137770,2190,received,2022-02-16 18:53:43+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+322,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",read,2022-02-16 18:53:41+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+323,CityBell,whatsapp:+5492215137770,6,received,2022-02-16 18:53:40+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+324,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA
+ *0*- Empezar de nuevo.",read,2022-02-16 18:53:40+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+325,Carra,whatsapp:+5493515266217,"No reconozco el nombre: Fessia, puede buscarlo por especialidad:",read,2022-02-16 18:53:39+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+326,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-02-16 18:53:39+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+327,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 18:53:39+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+328,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 15/03/2022 a las 17:00 hrs
+ *2*- 15/03/2022 a las 17:50 hrs
+ *3*- 15/03/2022 a las 18:40 hrs
+ *4*- 22/03/2022 a las 17:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:53:35+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+329,CityBell,whatsapp:+5492215137770,2128,received,2022-02-16 18:53:33+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+330,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",read,2022-02-16 18:53:31+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+331,CityBell,whatsapp:+5492215137770,6,received,2022-02-16 18:53:30+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+332,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 30/03/2022 a las 14:00 hrs
+ *2*- 30/03/2022 a las 15:00 hrs
+ *3*- 30/03/2022 a las 15:40 hrs
+ *4*- 06/04/2022 a las 14:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:53:20+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+333,CityBell,whatsapp:+5492215137770,1711,received,2022-02-16 18:53:19+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+334,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1060*- Dr./Dra. GUILLEN, IGNACIO JOSE
+ *1074*- Dr./Dra. MONTENEGRO, HUGO
+ *1451*- Dr./Dra. MALDONADO, NICOLAS
+ *1520*- Dr./Dra. CANCINOS, JORGE
+ *1557*- Dr./Dra. ROGGIERO, RODRIGO
+ *1558*- Dr./Dra. ARRONDO, GUILLERMO
+ *1607*- Dr./Dra. ARRONDO, JOSE
+ *1625*- Dr./Dra. POLI, JOSE LUIS
+ *1942*- Dr./Dra. SONCINI, IGNACIO
+ *1984*- Dr./Dra. BIZZARRI, PABLO DANIEL
+ *0*- Volver atrás",read,2022-02-16 18:53:17+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2539
+335,CityBell,whatsapp:+5492215137770,143,received,2022-02-16 18:53:16+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2612,1665
+336,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",read,2022-02-16 18:53:15+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+337,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: SANCOR SALUD 
+    Plan: 1000-1500-500- C EXENTO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:53:15+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+338,CityBell,whatsapp:+5492215137770,6,received,2022-02-16 18:53:07+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+339,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-02-16 18:53:02+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+340,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *153*- CIRUGÍA PEDIÁTRICA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *162*- ENDOCRINOLOGÍA
+ *168*- ALERGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *231*- CARDIOLOGIA PEDIATRICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *252*- TRAUMATOLOGIA INFANTIL
+ *253*- DERMATOLOGIA PEDIATRICA
+ *254*- OFTALMOLOGIA PEDIATRICA
+ *255*- NEUROLOGÌA PEDIATRICA
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA
+ *0*- Empezar de nuevo.",read,2022-02-16 18:52:53+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2539
+341,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,read,2022-02-16 18:52:53+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2539
+342,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 18:52:52+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2612,1665
+343,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 04/03/2022 a las 11:45 hrs
+ *2*- 04/03/2022 a las 12:30 hrs
+ *3*- 08/03/2022 a las 14:15 hrs
+ *4*- 11/03/2022 a las 11:15 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:52:48+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+344,CityBell,whatsapp:+5492215137770,970,received,2022-02-16 18:52:47+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+345,Salud Consultorios,whatsapp:+5493515266230,puedo ayudarle en algo mas?,read,2022-02-16 18:52:46+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+346,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *970*- Dr./Dra. BOZZOLO, JORGELINA
+ *1711*- Dr./Dra. BONICATTO, VICTORIA
+ *2128*- Dr./Dra. ARDANAZ, FLORENCIA
+ *2190*- Dr./Dra. DUBARRY, MARIA FLORENCIA
+ *2313*- Dr./Dra. RISI, YANINA
+ *2321*- Dr./Dra. FERRE, MARIA DEL ROSARIO
+ *0*- Volver atrás",read,2022-02-16 18:52:40+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+347,CityBell,whatsapp:+5492215137770,157,received,2022-02-16 18:52:39+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+348,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: CASA- CAJA DE ABOGADOS 
+    Plan: GENERAL 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:52:36+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2539
+349,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 18:52:36+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+350,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-02-16 18:52:36+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+351,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXXX,received,2022-02-16 18:52:34+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2612,1665
+352,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-02-16 18:52:34+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+353,Salud Consultorios,whatsapp:+5493515266230,su turno fue agendado,read,2022-02-16 18:52:32+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+354,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-02-16 18:52:20+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+355,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXXXXXXX,received,2022-02-16 18:52:19+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+356,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-02-16 18:52:13+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2539
+357,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 18:52:13+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2539
+358,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:52:11+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4582
+359,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 18:52:10+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2612,1665
+360,Carra,whatsapp:+5493515266217,Buenas Tardes!,received,2022-02-16 18:52:10+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4723,3359
+361,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 18:52:02+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,2539
+362,CityBell,whatsapp:+5492215137770,Hola Necesitaría un turno,received,2022-02-16 18:52:01+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2612,1665
+363,Salud Consultorios,whatsapp:+5493515266230,Si te lo confirmo también,received,2022-02-16 18:51:58+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3496,3360
+364,Salud Consultorios,whatsapp:+5493515266230,aguardo confirmacion para agendar,read,2022-02-16 18:51:04+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+365,Salud Consultorios,whatsapp:+5493515266230,"23/3, 9:00hs Dra Palacios, Oftalmologa",read,2022-02-16 18:50:57+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+366,Salud Consultorios,whatsapp:+5493515266230,su turno fue agendado,read,2022-02-16 18:50:23+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+367,Salud Consultorios,whatsapp:+5493515266230,XXXX,received,2022-02-16 18:49:17+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3496,3360
+368,Salud Consultorios,whatsapp:+5493515266230,"14/3, 17:45 Dra vMoreta Orl",read,2022-02-16 18:49:02+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+369,Salud Consultorios,whatsapp:+5493515266230,su turno fue agendado,read,2022-02-16 18:48:13+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+370,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *153*- CIRUGÍA PEDIÁTRICA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *162*- ENDOCRINOLOGÍA
+ *168*- ALERGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *231*- CARDIOLOGIA PEDIATRICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *252*- TRAUMATOLOGIA INFANTIL
+ *253*- DERMATOLOGIA PEDIATRICA
+ *254*- OFTALMOLOGIA PEDIATRICA
+ *255*- NEUROLOGÌA PEDIATRICA
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA
+ *0*- Empezar de nuevo.",read,2022-02-16 18:48:10+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+371,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,read,2022-02-16 18:48:10+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+372,CityBell,whatsapp:+5492215137770,si,received,2022-02-16 18:48:10+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+373,CityBell,whatsapp:+5492215137770,Tan dificil es pedir un turno??????????,received,2022-02-16 18:47:49+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3150,1665
+374,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXXXXXXXXXXXXXX,received,2022-02-16 18:47:41+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3150,1665
+375,CityBell,whatsapp:+5492215137770,Ya mande eso,received,2022-02-16 18:47:32+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3150,1665
+376,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: UNION PERSONAL 
+    Plan: ACCORD PLATINO y 310 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:47:27+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+377,CityBell,whatsapp:+5492215137770,XXXXXXXXXX,received,2022-02-16 18:47:26+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+378,Salud Consultorios,whatsapp:+5493515266230,Si te confirmo,received,2022-02-16 18:47:25+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3496,3360
+379,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 18:47:16+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+380,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-02-16 18:47:15+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+381,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 18:47:13+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+382,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 18:46:57+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1196
+383,CityBell,whatsapp:+5492215137770,sacar turno,received,2022-02-16 18:46:57+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1244,1665
+384,Salud Consultorios,whatsapp:+5493515266230,traumatologo,read,2022-02-16 18:42:04+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+385,Salud Consultorios,whatsapp:+5493515266230,aguardo confirmacion para agendar,read,2022-02-16 18:41:18+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+386,Salud Consultorios,whatsapp:+5493515266230,"24/2, 15:10hs, Dr Vich",read,2022-02-16 18:41:07+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+387,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *153*- CIRUGÍA PEDIÁTRICA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *162*- ENDOCRINOLOGÍA
+ *168*- ALERGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *231*- CARDIOLOGIA PEDIATRICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *252*- TRAUMATOLOGIA INFANTIL
+ *253*- DERMATOLOGIA PEDIATRICA
+ *254*- OFTALMOLOGIA PEDIATRICA
+ *255*- NEUROLOGÌA PEDIATRICA
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA
+ *0*- Empezar de nuevo.",delivered,2022-02-16 18:40:27+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1449
+388,CityBell,whatsapp:+5492215137770,0,received,2022-02-16 18:40:27+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1506,1665
+389,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *1712*- Dr./Dra. COLLURA, MARIA HILDA
+ *0*- Volver atrás",delivered,2022-02-16 18:40:22+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1449
+390,CityBell,whatsapp:+5492215137770,5,received,2022-02-16 18:40:22+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1506,1665
+391,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:40:22+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+392,Carra,whatsapp:+5493515266217," tu turno de PEDIATRIA ha sido confirmado para la fecha 21/02/2022 a las 12:00 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Patrignani Jose Luis",read,2022-02-16 18:40:21+00:00,2022-02-16,16,2,18,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+393,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 18:40:19+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+394,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: PEDIATRIA 
+  Doctor: Patrignani Jose Luis 
+  Fecha y hora: 21/02/2022 a las 12:00 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:40:09+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+395,Carra,whatsapp:+5493515266217,4,received,2022-02-16 18:40:09+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+396,CityBell,whatsapp:+5492215137770,"Sus datos han sido registrados para la obtención del turno. De ahora en más, podrá gestionar sus turnos de manera más fácil a través de nuestro asistente virtual u online en: <http://www.cmdcitybell.com.ar|www.cmdcitybell.com.ar>. En este momento, será derivado al asistente virtual para que tome su turno. Muchas gracias por comunicarse con nosotros.",read,2022-02-16 18:39:49+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1143
+397,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 18/02/2022 a las 09:30 hrs
+ *2*- 18/02/2022 a las 12:00 hrs
+ *3*- 21/02/2022 a las 10:45 hrs
+ *4*- 21/02/2022 a las 12:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:39:57+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+398,CityBell,whatsapp:+5492215137770,Doy por finalizada la conversación!,read,2022-02-16 18:39:57+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1143
+399,Carra,whatsapp:+5493515266217,57,received,2022-02-16 18:39:56+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+400,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *57*- Dr./Dra. Patrignani, Jose Luis
+ *58*- Dr./Dra. Magnoli, Ana
+ *60*- Dr./Dra. Perassi, Diego
+ *61*- Dr./Dra. Zupel, Nery
+ *129*- Dr./Dra. LUCATO, AGOSTINA
+ *0*- Volver atrás",read,2022-02-16 18:39:42+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+401,Carra,whatsapp:+5493515266217,157,received,2022-02-16 18:39:41+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+402,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA
+ *0*- Empezar de nuevo.",read,2022-02-16 18:39:28+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+403,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-02-16 18:39:27+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+404,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 18:39:27+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+405,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: APROSS 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:39:22+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+406,Carra,whatsapp:+5493515266217,5,received,2022-02-16 18:39:22+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+407,CityBell,whatsapp:+5492215137770,Has seleccionado una práctica que requiere atención personalizada. Te solicito que hagas click en uno de los siguientes links según corresponda: *Ecodoppler / Ergometría ->*  https://walink.co/2cdadf ;  *Mamografía / Ecografía Mamaria ->*  https://walink.co/b7d460 y para *Resonancia Magnética ->*  https://walink.co/0748ed,read,2022-02-16 18:39:18+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+408,CityBell,whatsapp:+5492215137770,"Fuiste transferido a un humano, por favor escribí tu consulta.",read,2022-02-16 18:39:18+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,['fuiste transferido a un humano'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+409,CityBell,whatsapp:+5492215137770,"Por la opción elegida, te transferiré con una persona que te tomará el resto de los datos de la cita. ¡Gracias!",read,2022-02-16 18:39:18+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+410,CityBell,whatsapp:+5492215137770,302,received,2022-02-16 18:39:17+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1696,1665
+411,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *5*- PLAN UNICO",read,2022-02-16 18:39:17+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+412,Carra,whatsapp:+5493515266217,8066,received,2022-02-16 18:39:15+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+413,Salud Consultorios,whatsapp:+5493515266230,No tiene q ser por la tarde luego de las 14.30,received,2022-02-16 18:39:13+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3496,3360
+414,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *153*- CIRUGÍA PEDIÁTRICA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *162*- ENDOCRINOLOGÍA
+ *168*- ALERGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *231*- CARDIOLOGIA PEDIATRICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *252*- TRAUMATOLOGIA INFANTIL
+ *253*- DERMATOLOGIA PEDIATRICA
+ *254*- OFTALMOLOGIA PEDIATRICA
+ *255*- NEUROLOGÌA PEDIATRICA
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA
+ *0*- Empezar de nuevo.",read,2022-02-16 18:39:11+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+415,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,read,2022-02-16 18:39:10+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+416,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 18:39:10+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1696,1665
+417,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *8068*- AMUR
+ *8097*- APM
+ *8066*- APROSS
+ *8069*- ASOCIART
+ *8100*- ATSA
+ *8065*- AVALIAN
+ *8070*- BOREAL
+ *8071*- CAJA DE ABOGADOS
+ *8073*- CAMI
+ *8074*- CENTRO ASISTENCIAL
+ *8076*- COMFYE
+ *8135*- COOP. PATRONAL
+ *8075*- CPCE
+ *8077*- DASUTEN
+ *8078*- FEDERADA SALUD
+ *8079*- GALENO ART
+ *8111*- GASTRONOMICOS
+ *8080*- GEA
+ *8092*- IOSE - O.S.DEL EJERCITO
+ *8081*- JERARQUICOS SALUD
+ *8082*- LA SEGUNDA A.R.T.
+ *8083*- LA SEGUNDA CIA
+ *8134*- LUZ Y FUERZA
+ *8084*- MAPFRE
+ *8088*- MEDICAR WORK
+ *8086*- MET
+ *8087*- NOBIS
+ *8098*- OBRA SOC.PODER JUDICIAL NACION
+ *8102*- OMINT
+ *8101*- OMINT ART
+ *8105*- OSDE
+ *8099*- OSDOP
+ *8118*- OSFATLYF
+ *8106*- OSITAC
+ *8090*- OSPE
+ *8107*- OSPECOR
+ *8103*- OSPEP
+ *8109*- OSPIF
+ *8104*- OSPIL
+ *8110*- OSPIM
+ *8093*- OSPIP
+ *8132*- OSSACRA
+ *8089*- OSSEG
+ *8112*- PAMI
+ *8113*- PARTICULAR
+ *8133*- PRENSA
+ *8136*- PREOCUPACIONAL
+ *8114*- PREVENCION A.R.T.
+ *8115*- PREVENCION SALUD
+ *8116*- PREVENCION SALUD  CARRA
+ *8119*- SANCOR SALUD
+ *8120*- SANCOR SEGUROS
+ *8121*- SEGUROS EL NORTE
+ *8122*- SIPS S.A.
+ *8124*- SUME SALUD
+ *8126*- SWISS MEDICAL
+ *8125*- SWISS MEDICAL ART
+ *8091*- UOM
+ *8127*- VISITAR SRL",read,2022-02-16 18:39:06+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+418,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-02-16 18:39:06+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+419,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: SWISS MEDICAL S.A. 
+    Plan: PLAN DOCTHOS af. obligatorios 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:39:03+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+420,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXXX,received,2022-02-16 18:39:02+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1696,1665
+421,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 18:38:40+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+422,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-02-16 18:38:40+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+423,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-02-16 18:38:38+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+424,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 18:38:36+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+425,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-02-16 18:38:36+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+426,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 18:38:34+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1696,1665
+427,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-02-16 18:38:20+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+428,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-02-16 18:38:19+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+429,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:37:42+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+430,Carra,whatsapp:+5493515266217," tu turno de PEDIATRIA ha sido confirmado para la fecha 21/02/2022 a las 11:45 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Patrignani Jose Luis",read,2022-02-16 18:37:42+00:00,2022-02-16,16,2,18,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+431,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 18:37:40+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+432,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: PEDIATRIA 
+  Doctor: Patrignani Jose Luis 
+  Fecha y hora: 21/02/2022 a las 11:45 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:37:28+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+433,Carra,whatsapp:+5493515266217,4,received,2022-02-16 18:37:28+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+434,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 18:37:26+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+435,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 18:37:26+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1696,1665
+436,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:37:15+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,1636
+437,CityBell,whatsapp:+5492215137770,Hola,received,2022-02-16 18:37:14+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1696,1665
+438,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Centro Medico de Diagnostico City Bell.  
+   
+Podés preguntarme información sobre Centro Medico de Diagnostico City Bell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:36:40+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,980
+439,CityBell,whatsapp:+5492215137770,0,received,2022-02-16 18:36:40+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1021,1665
+440,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 18/02/2022 a las 09:30 hrs
+ *2*- 18/02/2022 a las 12:00 hrs
+ *3*- 21/02/2022 a las 10:45 hrs
+ *4*- 21/02/2022 a las 11:45 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:36:38+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+441,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-02-16 18:36:36+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+442,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 18:36:36+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+443,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,read,2022-02-16 18:36:24+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,980
+444,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *153*- CIRUGÍA PEDIÁTRICA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *162*- ENDOCRINOLOGÍA
+ *168*- ALERGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *231*- CARDIOLOGIA PEDIATRICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *252*- TRAUMATOLOGIA INFANTIL
+ *253*- DERMATOLOGIA PEDIATRICA
+ *254*- OFTALMOLOGIA PEDIATRICA
+ *255*- NEUROLOGÌA PEDIATRICA
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA
+ *0*- Empezar de nuevo.",read,2022-02-16 18:36:24+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,980
+445,CityBell,whatsapp:+5492215137770,Si,received,2022-02-16 18:36:23+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1021,1665
+446,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: APROSS 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:36:18+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+447,Carra,whatsapp:+5493515266217,5,received,2022-02-16 18:36:18+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+448,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: I.O.M.A. ( AF. OBLIGATORIOS ) 
+    Plan: GENERAL 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:36:17+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,980
+449,CityBell,whatsapp:+5492215137770,XXXXXXXXXX,received,2022-02-16 18:36:16+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1021,1665
+450,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 18:36:07+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,980
+451,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-02-16 18:36:06+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,980
+452,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-02-16 18:36:04+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1021,1665
+453,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *5*- PLAN UNICO",read,2022-02-16 18:36:01+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+454,Carra,whatsapp:+5493515266217,8066,received,2022-02-16 18:36:00+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+455,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-02-16 18:35:59+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1725,980
+456,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-02-16 18:35:58+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1021,1665
+457,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *8068*- AMUR
+ *8097*- APM
+ *8066*- APROSS
+ *8069*- ASOCIART
+ *8100*- ATSA
+ *8065*- AVALIAN
+ *8070*- BOREAL
+ *8071*- CAJA DE ABOGADOS
+ *8073*- CAMI
+ *8074*- CENTRO ASISTENCIAL
+ *8076*- COMFYE
+ *8135*- COOP. PATRONAL
+ *8075*- CPCE
+ *8077*- DASUTEN
+ *8078*- FEDERADA SALUD
+ *8079*- GALENO ART
+ *8111*- GASTRONOMICOS
+ *8080*- GEA
+ *8092*- IOSE - O.S.DEL EJERCITO
+ *8081*- JERARQUICOS SALUD
+ *8082*- LA SEGUNDA A.R.T.
+ *8083*- LA SEGUNDA CIA
+ *8134*- LUZ Y FUERZA
+ *8084*- MAPFRE
+ *8088*- MEDICAR WORK
+ *8086*- MET
+ *8087*- NOBIS
+ *8098*- OBRA SOC.PODER JUDICIAL NACION
+ *8102*- OMINT
+ *8101*- OMINT ART
+ *8105*- OSDE
+ *8099*- OSDOP
+ *8118*- OSFATLYF
+ *8106*- OSITAC
+ *8090*- OSPE
+ *8107*- OSPECOR
+ *8103*- OSPEP
+ *8109*- OSPIF
+ *8104*- OSPIL
+ *8110*- OSPIM
+ *8093*- OSPIP
+ *8132*- OSSACRA
+ *8089*- OSSEG
+ *8112*- PAMI
+ *8113*- PARTICULAR
+ *8133*- PRENSA
+ *8136*- PREOCUPACIONAL
+ *8114*- PREVENCION A.R.T.
+ *8115*- PREVENCION SALUD
+ *8116*- PREVENCION SALUD  CARRA
+ *8119*- SANCOR SALUD
+ *8120*- SANCOR SEGUROS
+ *8121*- SEGUROS EL NORTE
+ *8122*- SIPS S.A.
+ *8124*- SUME SALUD
+ *8126*- SWISS MEDICAL
+ *8125*- SWISS MEDICAL ART
+ *8091*- UOM
+ *8127*- VISITAR SRL",read,2022-02-16 18:35:45+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+458,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-02-16 18:35:44+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+459,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 18:35:03+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+460,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-02-16 18:35:03+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+461,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-02-16 18:35:01+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+462,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-02-16 18:34:40+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+463,Salud Consultorios,whatsapp:+5493515266230,aguardo confirmación para agendar,read,2022-02-16 18:34:40+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+464,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-02-16 18:34:39+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+465,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:34:29+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4236
+466,Carra,whatsapp:+5493515266217," tu turno de PEDIATRIA ha sido confirmado para la fecha 02/03/2022 a las 10:45 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Magnoli Ana",read,2022-02-16 18:34:29+00:00,2022-02-16,16,2,18,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4236
+467,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 18:34:26+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4372,3359
+468,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",delivered,2022-02-16 18:34:25+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3703
+469,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-02-16 18:34:24+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3820,3360
+470,Salud Consultorios,whatsapp:+5493515266230,"21/2, 13:15hs Dra Orellano, Traumatologa",read,2022-02-16 18:34:22+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+471,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-02-16 18:34:09+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+472,Carra,whatsapp:+5493515266217,Necesito sacar turno,received,2022-02-16 18:34:08+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+473,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: PEDIATRIA 
+  Doctor: Magnoli Ana 
+  Fecha y hora: 02/03/2022 a las 10:45 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:34:05+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4236
+474,Carra,whatsapp:+5493515266217,1,received,2022-02-16 18:34:05+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4372,3359
+475,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-02-16 18:33:57+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4651
+476,Carra,whatsapp:+5493515266217,Hola buenas tardes,received,2022-02-16 18:33:56+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4792,3359
+477,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 02/03/2022 a las 10:45 hrs
+ *2*- 02/03/2022 a las 11:30 hrs
+ *3*- 02/03/2022 a las 19:45 hrs
+ *4*- 03/03/2022 a las 10:45 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-02-16 18:33:49+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4236
+478,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-02-16 18:33:47+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4236
+479,Carra,whatsapp:+5493515266217,Si,received,2022-02-16 18:33:47+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4372,3359
+480,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: APROSS 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-02-16 18:33:25+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4236
+481,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-02-16 18:33:25+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4372,3359
+482,Salud Consultorios,whatsapp:+5493515266230,¿Te puedo ayudar con algo más?,delivered,2022-02-16 18:33:04+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3703
+483,Salud Consultorios,whatsapp:+5493515266230,"No se encuentra registrado ese DNI en el sistema. Para admisión escriba aqui, ""Quiero hablar con un operador"" e indiquenos su dni, nombre y apellido y obra social",delivered,2022-02-16 18:33:04+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,3464,3703
+484,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-02-16 18:32:55+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3820,3360
+485,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",delivered,2022-02-16 18:32:48+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3703
+486,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXXXXXXXXXXXXXXXXXXXX,received,2022-02-16 18:32:47+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3820,3360
+487,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-02-16 18:32:46+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3496,3360
+488,Salud Consultorios,whatsapp:+5493515266230,Necesito tu email para transferirte a un operador humano.,delivered,2022-02-16 18:32:43+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3703
+489,Salud Consultorios,whatsapp:+5493515266230,"Si seleccionaste la especialidad de APTOS FÍSICOS indicanos fecha de nacimiento y deporte. La atención de operadores de turnos es de Lunes a Viernes de 8hs a 20hs, exceptuando feriados. El tiempo de demora en atención es de 15 a 30 minutos",delivered,2022-02-16 18:32:43+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3703
+490,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-02-16 18:32:42+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3820,3360
+491,Salud Consultorios,whatsapp:+5493515266230,indiqueme Dni,read,2022-02-16 18:32:34+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3390
+492,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-02-16 18:32:20+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4236
+493,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-02-16 18:32:20+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3463,4236
+494,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-02-16 18:32:17+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,4372,3359
+495,Salud Consultorios,whatsapp:+5493515266230,Necesito tu email para transferirte a un operador humano.,delivered,2022-02-16 18:32:12+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3703
+496,Salud Consultorios,whatsapp:+5493515266230,"Si seleccionaste la especialidad de APTOS FÍSICOS indicanos fecha de nacimiento y deporte. La atención de operadores de turnos es de Lunes a Viernes de 8hs a 20hs, exceptuando feriados. El tiempo de demora en atención es de 15 a 30 minutos",delivered,2022-02-16 18:32:12+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3703
+497,Salud Consultorios,whatsapp:+5493515266230,Quiero hablar con un operador,received,2022-02-16 18:32:11+00:00,2022-02-16,16,2,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3820,3360
+498,Salud Consultorios,whatsapp:+5493515266230,¿Te puedo ayudar con algo más?,delivered,2022-02-16 18:31:33+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3464,3703
+499,Salud Consultorios,whatsapp:+5493515266230,"No se encuentra registrado ese DNI en el sistema. Para admisión escriba aqui, ""Quiero hablar con un operador"" e indiquenos su dni, nombre y apellido y obra social",delivered,2022-02-16 18:31:33+00:00,2022-02-16,16,2,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,3464,3703
