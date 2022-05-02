@@ -1,0 +1,1928 @@
+,Hospital,Tel_hospital,Body,Status,SentDate,Fecha,Dia,Mes,Hora,Messages,Direction,Appointment_msp,Appointment,Cancellation_msp,Cancelled,consult,Consult_Appoint,fail_HH_sms,Fail_HH,achieve_HH,Got_HH,Cupo,Full_turnos_obra_social,No_Relation,No_Correlation,has_error,Error_Interno,has_error_501,Error_501,falla_api_externo,Falla_Api_Externo,alta_dni,not_DNI,issue_name,Issue_Name,ask_kunan,Ask_Kunan,many_fallbacks_goto_hh,Many_Fallbacks_Goto_HH,From_anon,To_anon
+500,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:40:28+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3079
+501,Carra,whatsapp:+5493515266217,"Hola, me gustaría sacar un turno con el urólogo ballarino",received,2022-01-03 18:40:28+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3286,2121
+502,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *8068*- AMUR
+ *8097*- APM
+ *8066*- APROSS
+ *8069*- ASOCIART
+ *8100*- ATSA
+ *8065*- AVALIAN
+ *8070*- BOREAL
+ *8071*- CAJA DE ABOGADOS
+ *8072*- CAJA NOTARIAL
+ *8073*- CAMI
+ *8074*- CENTRO ASISTENCIAL
+ *8076*- COMFYE
+ *8135*- COOP. PATRONAL
+ *8075*- CPCE
+ *8077*- DASUTEN
+ *8078*- FEDERADA SALUD
+ *8079*- GALENO ART
+ *8111*- GASTRONOMICOS
+ *8080*- GEA
+ *8081*- JERARQUICOS SALUD
+ *8082*- LA SEGUNDA A.R.T.
+ *8083*- LA SEGUNDA CIA
+ *8134*- LUZ Y FUERZA
+ *8084*- MAPFRE
+ *8088*- MEDICAR WORK
+ *8086*- MET
+ *8087*- NOBIS
+ *8098*- OBRA SOC.PODER JUDICIAL NACION
+ *8102*- OMINT
+ *8101*- OMINT ART
+ *8095*- OSADEF
+ *8105*- OSDE
+ *8099*- OSDOP
+ *8118*- OSFATLYF
+ *8106*- OSITAC
+ *8090*- OSPE
+ *8107*- OSPECOR
+ *8103*- OSPEP
+ *8108*- OSPERSAAMS
+ *8109*- OSPIF
+ *8104*- OSPIL
+ *8110*- OSPIM
+ *8093*- OSPIP
+ *8132*- OSSACRA
+ *8089*- OSSEG
+ *8112*- PAMI
+ *8113*- PARTICULAR
+ *8133*- PRENSA
+ *8136*- PREOCUPACIONAL
+ *8114*- PREVENCION A.R.T.
+ *8115*- PREVENCION SALUD
+ *8116*- PREVENCION SALUD  CARRA
+ *8119*- SANCOR SALUD
+ *8120*- SANCOR SEGUROS
+ *8121*- SEGUROS EL NORTE
+ *8122*- SIPS S.A.
+ *8124*- SUME SALUD
+ *8126*- SWISS MEDICAL
+ *8125*- SWISS MEDICAL ART
+ *8091*- UOM
+ *8127*- VISITAR SRL",read,2022-01-03 18:40:27+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2718
+503,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-01-03 18:40:27+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2901,2121
+504,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:40:01+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2718
+505,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 18:40:01+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2718
+506,Carra,whatsapp:+5493515266217,XXXXXXX,received,2022-01-03 18:39:59+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2901,2121
+507,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 18:39:43+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2718
+508,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:39:42+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2901,2121
+509,Carra,whatsapp:+5493515266217,Hmm.. ese número no esta dentro las opciones ofrecidas. Probá de nuevo.,read,2022-01-03 18:39:41+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+510,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *79*- CAPITA
+ *117*- OP
+ *118*- VETERANOS DE GUERRA
+ *123*- EXTRACAPITA",read,2022-01-03 18:39:41+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+511,Carra,whatsapp:+5493515266217,8112,received,2022-01-03 18:39:39+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+512,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:39:27+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2718
+513,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXXXX,received,2022-01-03 18:39:26+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2901,2121
+514,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *79*- CAPITA
+ *117*- OP
+ *118*- VETERANOS DE GUERRA
+ *123*- EXTRACAPITA",read,2022-01-03 18:39:24+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+515,Carra,whatsapp:+5493515266217,PAMI,received,2022-01-03 18:39:22+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+516,Carra,whatsapp:+5493515266217,Hmm.. ese número no esta dentro las opciones ofrecidas. Probá de nuevo.,read,2022-01-03 18:38:24+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+517,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *79*- CAPITA
+ *117*- OP
+ *118*- VETERANOS DE GUERRA
+ *123*- EXTRACAPITA",read,2022-01-03 18:38:24+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+518,Carra,whatsapp:+5493515266217,8112,received,2022-01-03 18:38:22+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+519,Carra,whatsapp:+5493515266217,Y el turno ?,received,2022-01-03 18:35:22+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3397,2121
+520,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:35:20+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+521,Salud Consultorios,whatsapp:+5493515266230,Si ud. tiene la obra social OSCEARA u OSPECOR por favor escriba “Quiero hablar con un operador” para realizar la correcta autorización,read,2022-01-03 18:35:20+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+522,Salud Consultorios,whatsapp:+5493515266230," tu turno de Endocrinologia ha sido confirmado para la fecha 12/01/2022 a las 11:40 hrs, en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, con Dr./Dra. PINARDI, VIRGINIA",read,2022-01-03 18:35:20+00:00,2022-01-03,3,1,18,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+523,Salud Consultorios,whatsapp:+5493515266230,Si,received,2022-01-03 18:35:14+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2828,2122
+524,Salud Consultorios,whatsapp:+5493515266230,"¡Muchas gracias! Tus datos son: 
+  Sede: Tucumán 98 Esq.Bs.As., Villa Carlos Paz 
+  Especialidad: Endocrinologia 
+  Doctor: PINARDI, VIRGINIA 
+  Fecha y hora: 12/01/2022 a las 11:40 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 18:35:04+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+525,Salud Consultorios,whatsapp:+5493515266230,1,received,2022-01-03 18:35:03+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2828,2122
+526,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 12/01/2022 a las 11:40 hrs
+ *2*- 02/02/2022 a las 08:40 hrs
+ *3*- 02/02/2022 a las 09:20 hrs
+ *4*- 02/02/2022 a las 10:00 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 18:32:26+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+527,Salud Consultorios,whatsapp:+5493515266230,39,received,2022-01-03 18:32:23+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2828,2122
+528,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *39*- Dr./Dra. PINARDI, VIRGINIA",read,2022-01-03 18:32:00+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+529,Salud Consultorios,whatsapp:+5493515266230,130,received,2022-01-03 18:31:59+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2828,2122
+530,Los Cedros,whatsapp:+5491120401203, ¿Cómo *sacar un turno*? https://youtu.be/ccXE04oxWJo ,read,2022-01-03 18:31:49+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,274
+531,Los Cedros,whatsapp:+5491120401203, ¿Cómo *cancelar un turno*? https://youtu.be/IpKfkm_1sZs,read,2022-01-03 18:31:49+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,274
+532,Los Cedros,whatsapp:+5491120401203,Ésta es la ayuda que puedo ofrecerte: ,read,2022-01-03 18:31:49+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,274
+533,Los Cedros,whatsapp:+5491120401203,Ayuda,received,2022-01-03 18:31:49+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,303,10
+534,Los Cedros,whatsapp:+5491120401203,"Hola, soy el asistente virtual de Clinica Los Cedros.  
+   
+Podés preguntarme información sobre Clinica Los Cedros, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:31:39+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,274
+535,Los Cedros,whatsapp:+5491120401203,Buenas tardes,received,2022-01-03 18:31:39+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,303,10
+536,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *125*- CARDIOLOGIA
+ *126*- CLINICA MEDICA
+ *127*- DERMATOLOGIA
+ *128*- DIABETOLOGIA
+ *130*- ENDOCRINOLOGIA
+ *132*- FLEBOLOGIA
+ *134*- GASTROENTEROLOGIA
+ *135*- GINECOLOGIA
+ *136*- INFECTOLOGIA
+ *138*- NEUMONOLOGIA
+ *139*- NEUROLOGIA
+ *142*- OFTALMOLOGIA
+ *143*- OTORRINOLARINGOLOGIA
+ *144*- PEDIATRIA
+ *146*- PSIQUIATRIA
+ *147*- REUMATOLOGIA
+ *149*- TRAUMATOLOGIA
+ *150*- UROLOGIA
+ *200*- PRACTICAS MEDICAS
+ *201*- LABORATORIO
+ *202*- DIAGNOSTICO POR IMAGENES
+ *203*- FONOAUDIOLOGIA
+ *204*- PSICOLOGIA
+ *205*- FISIOTERAPIA
+ *206*- ALERGIA",read,2022-01-03 18:29:54+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+537,Salud Consultorios,whatsapp:+5493515266230,"Lo siento pero la especialidad endocrinólogo,mi no se encuentra en mi sistema.",read,2022-01-03 18:29:54+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+538,Salud Consultorios,whatsapp:+5493515266230,Quedaron guardados tus datos.,read,2022-01-03 18:29:54+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+539,Salud Consultorios,whatsapp:+5493515266230,Si,received,2022-01-03 18:29:54+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2828,2122
+540,Salud Consultorios,whatsapp:+5493515266230,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PARQUE SALUD 
+    Plan: 700 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 18:29:24+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+541,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXXXXXXX,received,2022-01-03 18:29:23+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2828,2122
+542,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:29:09+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+543,Carra,whatsapp:+5493515266217,Estamos fuera del horario de atención con operadores humanos.,read,2022-01-03 18:29:09+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,['fuera del horario'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+544,Carra,whatsapp:+5493515266217,"Por la opción elegida, te transferiré con una persona que te tomará el resto de los datos de la cita. ¡Gracias!",read,2022-01-03 18:29:09+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+545,Carra,whatsapp:+5493515266217,"Para las siguientes prácticas comunicate a los teléfonos correspondientes: CIRUGIA VASCULAR -> (03564-430670), CIRUGIA CARDIOVASCULAR -> (3564-510018), RADIOLOGIA -> (03564-430670), TOMOGRAFIA -> (03564-430670), MAMOGRAFIA -> (03564-430670), MEDICINA LABORAL -> (03564-430670), ODONTOLOGIA -> (3564–416180 LAURA PAOLASSO) (3564-619842 GABRIELA PAOLASSO), ONCOLOGIA -> (3564-414190), HEMODINAMIA -> (3564510018)",read,2022-01-03 18:29:09+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+546,Carra,whatsapp:+5493515266217,208,received,2022-01-03 18:29:08+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+547,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 18:29:01+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+548,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 18:29:00+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+549,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 18:29:00+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+550,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PAMI 
+    Plan: CAPITA 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 18:28:56+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+551,Carra,whatsapp:+5493515266217,XXXXXXXXXX,received,2022-01-03 18:28:55+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+552,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:28:45+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+553,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 18:28:45+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+554,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:28:43+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+555,Salud Consultorios,whatsapp:+5493515266230,Ya te encontrás registrado.,read,2022-01-03 18:28:43+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+556,Carra,whatsapp:+5493515266217,XXXXXXX,received,2022-01-03 18:28:35+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+557,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-01-03 18:28:30+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2828,2122
+558,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 18:28:28+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+559,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:28:27+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+560,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:28:23+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+561,Carra,whatsapp:+5493515266217,Reiniciar la conversación,received,2022-01-03 18:28:22+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+562,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",read,2022-01-03 18:28:18+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+563,Salud Consultorios,whatsapp:+5493515266230,Sacar turno,received,2022-01-03 18:28:17+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2828,2122
+564,Carra,whatsapp:+5493515266217,Hmm.. ese número no esta dentro las opciones ofrecidas. Probá de nuevo.,read,2022-01-03 18:28:01+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+565,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *79*- CAPITA
+ *117*- OP
+ *118*- VETERANOS DE GUERRA
+ *123*- EXTRACAPITA",read,2022-01-03 18:28:01+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+566,Carra,whatsapp:+5493515266217,8112,received,2022-01-03 18:28:00+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+567,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:27:59+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2648
+568,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-01-03 18:27:59+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2828,2122
+569,Carra,whatsapp:+5493515266217,"*Escriba la opción* que usted quiere realizar:  
+▪️ Quiero cambiar el medico.
+▪️ Mi obra social es Sacar
+▪️ *Reiniciar* la conversación. 
+▪️ Quiero comunicarme con un *operador humano*.",read,2022-01-03 18:27:59+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+570,Carra,whatsapp:+5493515266217,"Perdón, no sé si entendí correctamente 🤔 Tu intención es decir...",read,2022-01-03 18:27:58+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+571,Carra,whatsapp:+5493515266217,Sacar,received,2022-01-03 18:27:58+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+572,Carra,whatsapp:+5493515266217,Hmm.. ese número no esta dentro las opciones ofrecidas. Probá de nuevo.,read,2022-01-03 18:27:32+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+573,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *79*- CAPITA
+ *117*- OP
+ *118*- VETERANOS DE GUERRA
+ *123*- EXTRACAPITA",read,2022-01-03 18:27:31+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+574,Carra,whatsapp:+5493515266217,8112,received,2022-01-03 18:27:30+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+575,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:27:22+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+576,Carra,whatsapp:+5493515266217,Estamos fuera del horario de atención con operadores humanos.,read,2022-01-03 18:27:22+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,['fuera del horario'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+577,Carra,whatsapp:+5493515266217,"Para las siguientes prácticas comunicate a los teléfonos correspondientes: CIRUGIA VASCULAR -> (03564-430670), CIRUGIA CARDIOVASCULAR -> (3564-510018), RADIOLOGIA -> (03564-430670), TOMOGRAFIA -> (03564-430670), MAMOGRAFIA -> (03564-430670), MEDICINA LABORAL -> (03564-430670), ODONTOLOGIA -> (3564–416180 LAURA PAOLASSO) (3564-619842 GABRIELA PAOLASSO), ONCOLOGIA -> (3564-414190), HEMODINAMIA -> (3564510018)",read,2022-01-03 18:27:21+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+578,Carra,whatsapp:+5493515266217,"Por la opción elegida, te transferiré con una persona que te tomará el resto de los datos de la cita. ¡Gracias!",read,2022-01-03 18:27:21+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+579,Carra,whatsapp:+5493515266217,208,received,2022-01-03 18:27:21+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+580,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *79*- CAPITA
+ *117*- OP
+ *118*- VETERANOS DE GUERRA
+ *123*- EXTRACAPITA",read,2022-01-03 18:27:10+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+581,Carra,whatsapp:+5493515266217,8112,received,2022-01-03 18:27:09+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+582,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 18:26:58+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+583,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 18:26:58+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+584,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 18:26:57+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+585,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PAMI 
+    Plan: CAPITA 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 18:26:54+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+586,Carra,whatsapp:+5493515266217,XXXXXXXXXX,received,2022-01-03 18:26:53+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+587,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:26:44+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+588,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 18:26:44+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+589,Carra,whatsapp:+5493515266217,XXXXXXX,received,2022-01-03 18:26:42+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+590,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 18:26:35+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+591,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:26:34+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+592,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:26:17+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+593,Carra,whatsapp:+5493515266217,"● Turno: ECOGRAFIA con Dr./Dra. Medina Virginia el día 05/01/2022 a las 10:58 hrs en nuestra sede Carrá, Bv. 9 de Julio 1501, S.Francisco,",read,2022-01-03 18:26:17+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+594,Carra,whatsapp:+5493515266217,Encontré los siguientos turnos asociados a la cuenta:,read,2022-01-03 18:26:17+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+595,Carra,whatsapp:+5493515266217,Estoy buscando tus turnos...,read,2022-01-03 18:26:17+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,['estoy buscando tus turnos'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+596,Carra,whatsapp:+5493515266217,Consultar mis turnos,received,2022-01-03 18:26:15+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+597,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *8068*- AMUR
+ *8097*- APM
+ *8066*- APROSS
+ *8069*- ASOCIART
+ *8100*- ATSA
+ *8065*- AVALIAN
+ *8070*- BOREAL
+ *8071*- CAJA DE ABOGADOS
+ *8072*- CAJA NOTARIAL
+ *8073*- CAMI
+ *8074*- CENTRO ASISTENCIAL
+ *8076*- COMFYE
+ *8135*- COOP. PATRONAL
+ *8075*- CPCE
+ *8077*- DASUTEN
+ *8078*- FEDERADA SALUD
+ *8079*- GALENO ART
+ *8111*- GASTRONOMICOS
+ *8080*- GEA
+ *8081*- JERARQUICOS SALUD
+ *8082*- LA SEGUNDA A.R.T.
+ *8083*- LA SEGUNDA CIA
+ *8134*- LUZ Y FUERZA
+ *8084*- MAPFRE
+ *8088*- MEDICAR WORK
+ *8086*- MET
+ *8087*- NOBIS
+ *8098*- OBRA SOC.PODER JUDICIAL NACION
+ *8102*- OMINT
+ *8101*- OMINT ART
+ *8095*- OSADEF
+ *8105*- OSDE
+ *8099*- OSDOP
+ *8118*- OSFATLYF
+ *8106*- OSITAC
+ *8090*- OSPE
+ *8107*- OSPECOR
+ *8103*- OSPEP
+ *8108*- OSPERSAAMS
+ *8109*- OSPIF
+ *8104*- OSPIL
+ *8110*- OSPIM
+ *8093*- OSPIP
+ *8132*- OSSACRA
+ *8089*- OSSEG
+ *8112*- PAMI
+ *8113*- PARTICULAR
+ *8133*- PRENSA
+ *8136*- PREOCUPACIONAL
+ *8114*- PREVENCION A.R.T.
+ *8115*- PREVENCION SALUD
+ *8116*- PREVENCION SALUD  CARRA
+ *8119*- SANCOR SALUD
+ *8120*- SANCOR SEGUROS
+ *8121*- SEGUROS EL NORTE
+ *8122*- SIPS S.A.
+ *8124*- SUME SALUD
+ *8126*- SWISS MEDICAL
+ *8125*- SWISS MEDICAL ART
+ *8091*- UOM
+ *8127*- VISITAR SRL",read,2022-01-03 18:26:12+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+598,Carra,whatsapp:+5493515266217,XXXXXXXXXXXX,received,2022-01-03 18:26:12+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+599,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:25:56+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+600,Carra,whatsapp:+5493515266217,"Perdón, no te puedo ayudar con eso. Solamente ayudo con temas relacionados con nuestro centro de salud.",read,2022-01-03 18:25:56+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,['solamente ayudo con temas relacionados con nuestro centro de salud'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+601,Carra,whatsapp:+5493515266217,No realizan este estudio,received,2022-01-03 18:25:55+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+602,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: ECOGRAFIA con Dr./Dra. Medina Virginia el día 05/01/2022 a las 10:58 hrs en Carrá, Bv. 9 de Julio 1501, S.Francisco, .",read,2022-01-03 18:25:31+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+603,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:25:29+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+604,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:25:21+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+605,Carra,whatsapp:+5493515266217,Hola,received,2022-01-03 18:25:20+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+606,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:25:19+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+607,Carra,whatsapp:+5493515266217,"Perdón, no te puedo ayudar con eso. Solamente ayudo con temas relacionados con nuestro centro de salud.",read,2022-01-03 18:25:19+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,['solamente ayudo con temas relacionados con nuestro centro de salud'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+608,Carra,whatsapp:+5493515266217,.,received,2022-01-03 18:25:19+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+609,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:24:35+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+610,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-01-03 18:24:34+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+611,Carra,whatsapp:+5493515266217, ¿Cómo *cancelar un turno*? https://youtu.be/IpKfkm_1sZs,read,2022-01-03 18:23:41+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+612,Carra,whatsapp:+5493515266217, ¿Cómo *sacar un turno*? https://youtu.be/ccXE04oxWJo ,read,2022-01-03 18:23:41+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+613,Carra,whatsapp:+5493515266217,Ésta es la ayuda que puedo ofrecerte: ,read,2022-01-03 18:23:41+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+614,Carra,whatsapp:+5493515266217,Ayuda,received,2022-01-03 18:23:40+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+615,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:23:31+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+616,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 18:23:31+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+617,Carra,whatsapp:+5493515266217,XXXXXXX,received,2022-01-03 18:23:29+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+618,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 18:23:07+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+619,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 18:23:05+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+620,Carra,whatsapp:+5493515266217,Hmm.. ese número no esta dentro las opciones ofrecidas. Probá de nuevo.,read,2022-01-03 18:22:35+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+621,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: ECOGRAFIA con Dr./Dra. Medina Virginia el día 05/01/2022 a las 10:58 hrs en Carrá, Bv. 9 de Julio 1501, S.Francisco, .",read,2022-01-03 18:22:34+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+622,Carra,whatsapp:+5493515266217,208,received,2022-01-03 18:22:33+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+623,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: ECOGRAFIA con Dr./Dra. Medina Virginia el día 05/01/2022 a las 10:58 hrs en Carrá, Bv. 9 de Julio 1501, S.Francisco, .",read,2022-01-03 18:22:14+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+624,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:22:12+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+625,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: ECOGRAFIA con Dr./Dra. Medina Virginia el día 05/01/2022 a las 10:58 hrs en Carrá, Bv. 9 de Julio 1501, S.Francisco, .",read,2022-01-03 18:22:00+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+626,Carra,whatsapp:+5493515266217,Cancelar,received,2022-01-03 18:21:58+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+627,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *25*- Dr./Dra. Rinaldi de Pozzi, Flavia",read,2022-01-03 18:21:52+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+628,Carra,whatsapp:+5493515266217,Otro,received,2022-01-03 18:21:51+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+629,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *25*- Dr./Dra. Rinaldi de Pozzi, Flavia",read,2022-01-03 18:21:40+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+630,Carra,whatsapp:+5493515266217,No pude entender el nombre del/la doctor/a.,read,2022-01-03 18:21:40+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+631,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:21:39+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+632,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:21:34+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+633,Carra,whatsapp:+5493515266217,Hola,received,2022-01-03 18:21:34+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+634,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:21:02+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3587
+635,Carra,whatsapp:+5493515266217,Buenas tardes,received,2022-01-03 18:21:01+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3826,2121
+636,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 20/01/2022 a las 16:15 hrs
+ *2*- 20/01/2022 a las 16:55 hrs
+ *3*- 20/01/2022 a las 17:35 hrs
+ *4*- 20/01/2022 a las 18:55 hrs
+ *5*- Mostrar más fechas
+ *6*- Mostrar fechas anteriores
+ *7*- Volver atrás",read,2022-01-03 18:17:19+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+637,Carra,whatsapp:+5493515266217,5,received,2022-01-03 18:17:17+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+638,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 06/01/2022 a las 16:55 hrs
+ *2*- 06/01/2022 a las 17:35 hrs
+ *3*- 06/01/2022 a las 18:35 hrs
+ *4*- 10/01/2022 a las 17:40 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 18:17:13+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+639,Carra,whatsapp:+5493515266217,73,received,2022-01-03 18:17:12+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+640,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *70*- Dr./Dra. Galassi, Carlos
+ *71*- Dr./Dra. Giubilatto, Daniel
+ *72*- Dr./Dra. Pages, Andres
+ *73*- Dr./Dra. Bartolomeo, Cesar
+ *74*- Dr./Dra. Giraudo, Fernando",read,2022-01-03 18:17:06+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+641,Carra,whatsapp:+5493515266217,163,received,2022-01-03 18:17:06+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+642,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 18:17:00+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+643,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 18:17:00+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+644,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 18:16:59+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+645,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: SANCOR SALUD 
+    Plan: 4000-3000-2000 GRAVADO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 18:16:56+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+646,Carra,whatsapp:+5493515266217,89,received,2022-01-03 18:16:55+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+647,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *89*- 4000-3000-2000 GRAVADO
+ *90*- 4000-3000-2000 EXENTO
+ *91*- 1000-1500-500 GRAVADO
+ *92*- 1000-1500-500- C EXENTO
+ *93*- 800-700 EXENTO
+ *133*- 800-700 GRAVADO",read,2022-01-03 18:16:52+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+648,Carra,whatsapp:+5493515266217,8119,received,2022-01-03 18:16:51+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+649,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *8068*- AMUR
+ *8097*- APM
+ *8066*- APROSS
+ *8069*- ASOCIART
+ *8100*- ATSA
+ *8065*- AVALIAN
+ *8070*- BOREAL
+ *8071*- CAJA DE ABOGADOS
+ *8072*- CAJA NOTARIAL
+ *8073*- CAMI
+ *8074*- CENTRO ASISTENCIAL
+ *8076*- COMFYE
+ *8135*- COOP. PATRONAL
+ *8075*- CPCE
+ *8077*- DASUTEN
+ *8078*- FEDERADA SALUD
+ *8079*- GALENO ART
+ *8111*- GASTRONOMICOS
+ *8080*- GEA
+ *8081*- JERARQUICOS SALUD
+ *8082*- LA SEGUNDA A.R.T.
+ *8083*- LA SEGUNDA CIA
+ *8134*- LUZ Y FUERZA
+ *8084*- MAPFRE
+ *8088*- MEDICAR WORK
+ *8086*- MET
+ *8087*- NOBIS
+ *8098*- OBRA SOC.PODER JUDICIAL NACION
+ *8102*- OMINT
+ *8101*- OMINT ART
+ *8095*- OSADEF
+ *8105*- OSDE
+ *8099*- OSDOP
+ *8118*- OSFATLYF
+ *8106*- OSITAC
+ *8090*- OSPE
+ *8107*- OSPECOR
+ *8103*- OSPEP
+ *8108*- OSPERSAAMS
+ *8109*- OSPIF
+ *8104*- OSPIL
+ *8110*- OSPIM
+ *8093*- OSPIP
+ *8132*- OSSACRA
+ *8089*- OSSEG
+ *8112*- PAMI
+ *8113*- PARTICULAR
+ *8133*- PRENSA
+ *8136*- PREOCUPACIONAL
+ *8114*- PREVENCION A.R.T.
+ *8115*- PREVENCION SALUD
+ *8116*- PREVENCION SALUD  CARRA
+ *8119*- SANCOR SALUD
+ *8120*- SANCOR SEGUROS
+ *8121*- SEGUROS EL NORTE
+ *8122*- SIPS S.A.
+ *8124*- SUME SALUD
+ *8126*- SWISS MEDICAL
+ *8125*- SWISS MEDICAL ART
+ *8091*- UOM
+ *8127*- VISITAR SRL",read,2022-01-03 18:16:46+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+650,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXXX,received,2022-01-03 18:16:45+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+651,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:16:27+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+652,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 18:16:27+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+653,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 18:16:25+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+654,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 18:16:19+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+655,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:16:19+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+656,Carra,whatsapp:+5493515266217,¿Te puedo ayudar con algo más?,read,2022-01-03 18:15:59+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3013
+657,Carra,whatsapp:+5493515266217,No se encuentra registrado ese DNI en el sistema. Para darte de alta envianos un WhatsApp al +54 9 3564 526417 de LUNES a VIERNES de 8hs. a 12hs.,read,2022-01-03 18:15:59+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,2249,3013
+658,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 18:15:58+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3216,2121
+659,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 18:15:28+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3013
+660,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:15:28+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3216,2121
+661,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:15:04+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3013
+662,Carra,whatsapp:+5493515266217,Hola,received,2022-01-03 18:15:03+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3216,2121
+663,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *25*- Dr./Dra. Rinaldi de Pozzi, Flavia",read,2022-01-03 18:11:40+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+664,Carra,whatsapp:+5493515266217,135,received,2022-01-03 18:11:39+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+665,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 18:11:15+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+666,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 18:11:14+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+667,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 18:11:14+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+668,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PAMI 
+    Plan: CAPITA 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 18:11:09+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+669,Carra,whatsapp:+5493515266217,XXXXXXXXXX,received,2022-01-03 18:11:08+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+670,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:10:58+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+671,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 18:10:58+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+672,Carra,whatsapp:+5493515266217,XXXXXXX,received,2022-01-03 18:10:56+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+673,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 18:10:49+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+674,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:10:49+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+675,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:10:44+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2996
+676,Carra,whatsapp:+5493515266217,Hola,received,2022-01-03 18:10:43+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3198,2121
+677,Carra,whatsapp:+5493515266217,¿Te puedo ayudar con algo más?,read,2022-01-03 18:09:22+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2754
+678,Carra,whatsapp:+5493515266217,No se encuentra registrado ese DNI en el sistema. Para darte de alta envianos un WhatsApp al +54 9 3564 526417 de LUNES a VIERNES de 8hs. a 12hs.,read,2022-01-03 18:09:22+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,2249,2754
+679,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 18:09:21+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2942,2121
+680,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 18:09:05+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2754
+681,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:09:05+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2942,2121
+682,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:08:33+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2754
+683,Carra,whatsapp:+5493515266217,XXXXXXXXXXXX,received,2022-01-03 18:08:32+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2942,2121
+684,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 18:03:46+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+685,Carra,whatsapp:+5493515266217," tu turno de TRAUMATOLOGIA ha sido confirmado para la fecha 06/01/2022 a las 17:45 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Pages Andres",read,2022-01-03 18:03:45+00:00,2022-01-03,3,1,18,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+686,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 18:03:43+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3741,2121
+687,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 19/01/2022 a las 08:00 hrs
+ *2*- 19/01/2022 a las 08:45 hrs
+ *3*- 19/01/2022 a las 09:30 hrs
+ *4*- Mostrar más fechas
+ *5*- Mostrar fechas anteriores
+ *6*- Volver atrás",read,2022-01-03 18:03:00+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+688,Carra,whatsapp:+5493515266217,5,received,2022-01-03 18:02:58+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3110,2121
+689,Carra,whatsapp:+5493515266217,Hmm.. ese número no esta dentro las opciones ofrecidas. Probá de nuevo.,read,2022-01-03 18:02:47+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+690,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 17/01/2022 a las 16:30 hrs
+ *2*- 18/01/2022 a las 16:00 hrs
+ *3*- 18/01/2022 a las 17:00 hrs
+ *4*- 18/01/2022 a las 17:45 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 18:02:47+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+691,Carra,whatsapp:+5493515266217,72,received,2022-01-03 18:02:45+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3110,2121
+692,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 17/01/2022 a las 16:30 hrs
+ *2*- 18/01/2022 a las 16:00 hrs
+ *3*- 18/01/2022 a las 17:00 hrs
+ *4*- 18/01/2022 a las 17:45 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 18:02:27+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+693,Carra,whatsapp:+5493515266217,74,received,2022-01-03 18:02:26+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3110,2121
+694,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *70*- Dr./Dra. Galassi, Carlos
+ *71*- Dr./Dra. Giubilatto, Daniel
+ *72*- Dr./Dra. Pages, Andres
+ *73*- Dr./Dra. Bartolomeo, Cesar
+ *74*- Dr./Dra. Giraudo, Fernando",read,2022-01-03 18:02:18+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+695,Carra,whatsapp:+5493515266217,163,received,2022-01-03 18:02:17+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3110,2121
+696,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 18:02:03+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+697,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 18:02:03+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+698,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 18:02:03+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3110,2121
+699,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: OSPE 
+    Plan: EXENTO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 18:01:32+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+700,Carra,whatsapp:+5493515266217,XXXXXXXXXX,received,2022-01-03 18:01:32+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3110,2121
+701,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 18:01:20+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+702,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 18:01:20+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+703,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 18:01:17+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3110,2121
+704,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 18:00:57+00:00,2022-01-03,3,1,18,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2916
+705,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 18:00:55+00:00,2022-01-03,3,1,18,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3110,2121
+706,Salud Consultorios,whatsapp:+5493515266230,Hmm.. ese número no esta dentro las opciones ofrecidas. Probá de nuevo.,read,2022-01-03 17:59:07+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2454
+707,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: GINECOLOGIA con Dr./Dra. PONCE MACARENA el día 06/01/2022 a las 18:20 hrs en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, .
+ *2*- ● Turno: PSICOLOGIA con Dr./Dra. RUIZ MARIA CELESTE el día 06/01/2022 a las 18:00 hrs en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, .",read,2022-01-03 17:59:07+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2454
+708,Salud Consultorios,whatsapp:+5493515266230,3,received,2022-01-03 17:59:05+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2608,2122
+709,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:58:35+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+710,Carra,whatsapp:+5493515266217," tu turno de Traumatologia ha sido confirmado para la fecha 06/01/2022 a las 18:45 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Pages, Andres",read,2022-01-03 17:58:34+00:00,2022-01-03,3,1,17,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+711,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:58:32+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3205,2121
+712,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: Traumatologia 
+  Doctor: Pages, Andres 
+  Fecha y hora: 06/01/2022 a las 18:45 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:58:14+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+713,Carra,whatsapp:+5493515266217,3,received,2022-01-03 17:58:13+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3205,2121
+714,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: GINECOLOGIA con Dr./Dra. PONCE MACARENA el día 06/01/2022 a las 18:20 hrs en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, .
+ *2*- ● Turno: PSICOLOGIA con Dr./Dra. RUIZ MARIA CELESTE el día 06/01/2022 a las 18:00 hrs en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, .",read,2022-01-03 17:56:53+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2454
+715,Salud Consultorios,whatsapp:+5493515266230,Dermatologa,received,2022-01-03 17:56:51+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2608,2122
+716,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 06/01/2022 a las 16:45 hrs
+ *2*- 06/01/2022 a las 17:45 hrs
+ *3*- 06/01/2022 a las 18:45 hrs
+ *4*- 10/01/2022 a las 17:15 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:56:50+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+717,Carra,whatsapp:+5493515266217,72,received,2022-01-03 17:56:48+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3205,2121
+718,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: GINECOLOGIA con Dr./Dra. PONCE MACARENA el día 06/01/2022 a las 18:20 hrs en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, .
+ *2*- ● Turno: PSICOLOGIA con Dr./Dra. RUIZ MARIA CELESTE el día 06/01/2022 a las 18:00 hrs en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, .",read,2022-01-03 17:56:46+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2454
+719,Salud Consultorios,whatsapp:+5493515266230,Con la doc marzari,received,2022-01-03 17:56:44+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2608,2122
+720,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *70*- Dr./Dra. Galassi, Carlos
+ *71*- Dr./Dra. Giubilatto, Daniel
+ *72*- Dr./Dra. Pages, Andres
+ *73*- Dr./Dra. Bartolomeo, Cesar
+ *74*- Dr./Dra. Giraudo, Fernando",read,2022-01-03 17:56:26+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+721,Carra,whatsapp:+5493515266217,163,received,2022-01-03 17:56:25+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3205,2121
+722,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: GINECOLOGIA con Dr./Dra. PONCE MACARENA el día 06/01/2022 a las 18:20 hrs en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, .
+ *2*- ● Turno: PSICOLOGIA con Dr./Dra. RUIZ MARIA CELESTE el día 06/01/2022 a las 18:00 hrs en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, .",read,2022-01-03 17:56:25+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2454
+723,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-01-03 17:56:19+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2608,2122
+724,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 17:56:16+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+725,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 17:56:16+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+726,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:56:15+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3205,2121
+727,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: GALENO ART 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:56:04+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+728,Carra,whatsapp:+5493515266217,XXXXXXXXXX,received,2022-01-03 17:56:04+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3205,2121
+729,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",read,2022-01-03 17:55:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2454
+730,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:55:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+731,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 17:55:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+732,Salud Consultorios,whatsapp:+5493515266230,"Ustedes me lo cancelaron, creo",received,2022-01-03 17:55:36+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2608,2122
+733,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 17:55:35+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3205,2121
+734,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 17:55:12+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3002
+735,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 17:55:12+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3205,2121
+736,Salud Consultorios,whatsapp:+5493515266230,"Para reprogramar el horario de un turno, cancelá el turno ya reservado y luego elegí sacar otro.",read,2022-01-03 17:55:08+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2454
+737,Salud Consultorios,whatsapp:+5493515266230,Me llamaron para reprogramar un turno,received,2022-01-03 17:55:07+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2608,2122
+738,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:54:59+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+739,Carra,whatsapp:+5493515266217,"Lo siento, hubo un error interno y no pude reservar tu turno. ¿Podrías intentarlo nuevamente más tarde? Si es una urgencia, por favor comunicate al teléfono del hospital.",read,2022-01-03 17:54:59+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+740,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:54:57+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+741,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:54:55+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2454
+742,Salud Consultorios,whatsapp:+5493515266230,Hola,received,2022-01-03 17:54:55+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2608,2122
+743,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: Traumatologia 
+  Doctor: Pages, Andres 
+  Fecha y hora: 06/01/2022 a las 18:45 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:54:52+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+744,Carra,whatsapp:+5493515266217,3,received,2022-01-03 17:54:51+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+745,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 06/01/2022 a las 16:45 hrs
+ *2*- 06/01/2022 a las 17:45 hrs
+ *3*- 06/01/2022 a las 18:45 hrs
+ *4*- 10/01/2022 a las 17:15 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:54:46+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+746,Carra,whatsapp:+5493515266217,72,received,2022-01-03 17:54:45+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+747,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *70*- Dr./Dra. Galassi, Carlos
+ *71*- Dr./Dra. Giubilatto, Daniel
+ *72*- Dr./Dra. Pages, Andres
+ *73*- Dr./Dra. Bartolomeo, Cesar
+ *74*- Dr./Dra. Giraudo, Fernando",read,2022-01-03 17:54:38+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+748,Carra,whatsapp:+5493515266217,163,received,2022-01-03 17:54:37+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+749,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 17:54:31+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+750,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 17:54:31+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+751,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:54:30+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+752,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PAMI 
+    Plan: CAPITA 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:54:25+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+753,Carra,whatsapp:+5493515266217,XXXXXXXXXX,received,2022-01-03 17:54:24+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+754,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:54:16+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+755,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 17:54:16+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+756,Carra,whatsapp:+5493515266217,XXXXXXX,received,2022-01-03 17:54:14+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+757,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 17:54:09+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+758,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 17:54:09+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+759,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:53:55+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+760,Carra,whatsapp:+5493515266217,"Lo siento, hubo un error interno y no pude reservar tu turno. ¿Podrías intentarlo nuevamente más tarde? Si es una urgencia, por favor comunicate al teléfono del hospital.",read,2022-01-03 17:53:55+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+761,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:53:53+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+762,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: Traumatologia 
+  Doctor: Pages, Andres 
+  Fecha y hora: 06/01/2022 a las 18:45 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:53:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+763,Carra,whatsapp:+5493515266217,3,received,2022-01-03 17:53:37+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+764,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: TRAUMATOLOGIA 
+  Doctor: Pages Andres 
+  Fecha y hora: 06/01/2022 a las 17:45 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:49:59+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+765,Carra,whatsapp:+5493515266217,2,received,2022-01-03 17:49:58+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3741,2121
+766,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:49:57+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+767,Carra,whatsapp:+5493515266217," tu turno de DERMATOLOGIA ha sido confirmado para la fecha 14/01/2022 a las 10:00 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Fassi María Virginia",read,2022-01-03 17:49:57+00:00,2022-01-03,3,1,17,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+768,Carra,whatsapp:+5493515266217,Sí,received,2022-01-03 17:49:55+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3171,2121
+769,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 06/01/2022 a las 16:45 hrs
+ *2*- 06/01/2022 a las 17:45 hrs
+ *3*- 06/01/2022 a las 18:45 hrs
+ *4*- 10/01/2022 a las 17:15 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:49:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+770,Carra,whatsapp:+5493515266217,72,received,2022-01-03 17:49:35+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+771,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: DERMATOLOGIA 
+  Doctor: Fassi María Virginia 
+  Fecha y hora: 14/01/2022 a las 10:00 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:49:31+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+772,Carra,whatsapp:+5493515266217,1,received,2022-01-03 17:49:30+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3171,2121
+773,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 06/01/2022 a las 16:45 hrs
+ *2*- 06/01/2022 a las 17:45 hrs
+ *3*- 06/01/2022 a las 18:45 hrs
+ *4*- 10/01/2022 a las 17:15 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:49:23+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+774,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 17:49:22+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+775,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:49:21+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3741,2121
+776,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *70*- Dr./Dra. Galassi, Carlos
+ *71*- Dr./Dra. Giubilatto, Daniel
+ *72*- Dr./Dra. Pages, Andres
+ *73*- Dr./Dra. Bartolomeo, Cesar
+ *74*- Dr./Dra. Giraudo, Fernando",read,2022-01-03 17:48:54+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+777,Carra,whatsapp:+5493515266217,163,received,2022-01-03 17:48:54+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+778,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: SANCOR SALUD 
+    Plan: 1000-1500-500- C EXENTO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:48:53+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+779,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-01-03 17:48:52+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3741,2121
+780,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 17:48:41+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+781,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 17:48:41+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+782,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:48:40+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+783,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 14/01/2022 a las 10:00 hrs
+ *2*- 14/01/2022 a las 10:40 hrs
+ *3*- 21/01/2022 a las 08:00 hrs
+ *4*- 21/01/2022 a las 08:40 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:48:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+784,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 17:48:36+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+785,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:48:35+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3171,2121
+786,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PAMI 
+    Plan: CAPITA 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:48:29+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+787,Carra,whatsapp:+5493515266217,XXXXXXXXXX,received,2022-01-03 17:48:29+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+788,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:48:12+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+789,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 17:48:12+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+790,Carra,whatsapp:+5493515266217,XXXXXXX,received,2022-01-03 17:48:10+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+791,Salud Consultorios,whatsapp:+5493515266230,¿Te puedo ayudar con algo más?,read,2022-01-03 17:47:59+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2167
+792,Salud Consultorios,whatsapp:+5493515266230,"No se encuentra registrado ese DNI en el sistema. Para admisión escriba aqui, ""Quiero hablar con un operador"" e indiquenos su dni, nombre y apellido y obra social",read,2022-01-03 17:47:59+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,2250,2167
+793,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-01-03 17:47:57+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2297,2122
+794,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 17:47:50+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+795,Carra,whatsapp:+5493515266217,Sacar  turno,received,2022-01-03 17:47:49+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+796,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",read,2022-01-03 17:47:48+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2167
+797,Salud Consultorios,whatsapp:+5493515266230,Sacar turno,received,2022-01-03 17:47:48+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2297,2122
+798,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PARTICULARES 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:47:46+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+799,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-01-03 17:47:46+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3171,2121
+800,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:47:45+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+801,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 17:47:45+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+802,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 17:47:43+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3741,2121
+803,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:47:32+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3047
+804,Carra,whatsapp:+5493515266217,Hola,received,2022-01-03 17:47:31+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3254,2121
+805,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:47:06+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+806,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 17:47:06+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+807,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 17:47:04+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3171,2121
+808,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 17:46:53+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+809,Salud Consultorios,whatsapp:+5493515266230,¿Te puedo ayudar con algo más?,read,2022-01-03 17:46:53+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2167
+810,Salud Consultorios,whatsapp:+5493515266230,No se encuentra registrado ese DNI en el sistema.,read,2022-01-03 17:46:53+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,['no se encuentra registrado ese dni en el sistema'],1,[],0,[],0,[],0,2250,2167
+811,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 17:46:47+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3171,2121
+812,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-01-03 17:46:31+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2297,2122
+813,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",read,2022-01-03 17:46:24+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2167
+814,Salud Consultorios,whatsapp:+5493515266230,Canscelar turno,received,2022-01-03 17:46:23+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2297,2122
+815,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:46:13+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,2975
+816,Carra,whatsapp:+5493515266217,"Hola buenas tardes.
+Me podrías dar un turno para la dermatóloga fassi Virginia.",received,2022-01-03 17:46:12+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3171,2121
+817,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:45:51+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2167
+818,Salud Consultorios,whatsapp:+5493515266230,Hola!,received,2022-01-03 17:45:50+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2297,2122
+819,Carra,whatsapp:+5493515266217,211 hematologia,received,2022-01-03 17:43:39+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3397,2121
+820,Carra,whatsapp:+5493515266217,"No reconozco el nombre: Particular, puede buscarlo por especialidad:",read,2022-01-03 17:42:56+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3182
+821,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 17:42:56+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3182
+822,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 17:42:56+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3182
+823,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:42:55+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3397,2121
+824,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PARTICULAR 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:42:40+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3182
+825,Carra,whatsapp:+5493515266217,Particular,received,2022-01-03 17:42:40+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3397,2121
+826,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PARTICULARES 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:42:27+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3182
+827,Carra,whatsapp:+5493515266217,XXXXXXXXXX,received,2022-01-03 17:42:27+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3397,2121
+828,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:41:56+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3182
+829,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 17:41:56+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3182
+830,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 17:41:54+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3397,2121
+831,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 17:41:26+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3182
+832,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 17:41:25+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3397,2121
+833,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:41:03+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3182
+834,Carra,whatsapp:+5493515266217,"Hola !!
+Necesito turno para la dra McCormik ( hematóloga ) 
+Particular",received,2022-01-03 17:41:02+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3397,2121
+835,Los Cedros,whatsapp:+5491120401203,XXXXXXXXXXXXXX,received,2022-01-03 17:30:34+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,258,10
+836,Los Cedros,whatsapp:+5491120401203,"*Escribe el número de la opción* que quieres elegir: 
+ *123*- ALERGIA E INMUNOLOGIA
+ *124*- ARTROSCOPIA
+ *125*- AUDIOMETRIA
+ *126*- CARDIOLOGIA
+ *127*- CIRUGIA CABEZA Y CUELLO
+ *128*- CIRUGIA CARDIOVASCULAR CENTRAL
+ *129*- CIRUGIA CARDIOVASCULAR PERIFERICA Y FLEB
+ *130*- CIRUGIA GENERAL
+ *131*- CIRUGIA PLASTICA
+ *133*- ESTUDIOS
+ *134*- DERMATOLOGIA
+ *135*- DIABETOLOGIA
+ *137*- DOPPLER PERIFERICO
+ *139*- ECOCARDIOGRAMA DOPPLER / TRANSTORACICO
+ *144*- ELECTROMIOGRAMA
+ *145*- ENDOCRINODIABETOLOGIA
+ *146*- ENDOCRINOLOGIA
+ *150*- FLEBOLOGIA
+ *151*- GASTROENTEROLOGIA
+ *152*- GINECOLOGIA
+ *153*- GINECOLOGIA QUIRURGICA
+ *155*- HEMATOLOGIA
+ *159*- INFECTOLOGIA
+ *165*- NEFROLOGIA
+ *166*- NEUMONOLOGIA
+ *167*- NEUROCIRUGIA
+ *168*- NEUROLOGIA
+ *169*- NUTRICION
+ *173*- OTORRINOLARINGOLOGIA
+ *181*- REUMATOLOGIA
+ *185*- TRAUMATOLOGIA
+ *189*- UROLOGIA
+ *195*- PEDRIATRÍA",read,2022-01-03 17:29:07+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+837,Los Cedros,whatsapp:+5491120401203,"Fuiste transferido a un humano, por favor escribí tu consulta.",read,2022-01-03 17:29:06+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,['fuiste transferido a un humano'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+838,Los Cedros,whatsapp:+5491120401203,Para prácticas puedes dirigirte en forma presencial a nuestro centro de atención. El tiempo de atención para los operadores es de 10 minutos.,read,2022-01-03 17:29:06+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+839,Los Cedros,whatsapp:+5491120401203,Hablar con un humano,received,2022-01-03 17:29:06+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,258,10
+840,Los Cedros,whatsapp:+5491120401203,"*Escriba la opción* que usted quiere realizar:  
+*1*- Hablar con un humano",read,2022-01-03 17:28:47+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+841,Los Cedros,whatsapp:+5491120401203,No hay turnos disponibles para ese médico. Puedo ofrecerte las siguientes opciones:,read,2022-01-03 17:28:47+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+842,Los Cedros,whatsapp:+5491120401203,111,received,2022-01-03 17:28:42+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,258,10
+843,Los Cedros,whatsapp:+5491120401203,"*Escribe el número de la opción* que quieres elegir: 
+ *25*- Dr./Dra. CATALDO, JULIO RODOLFO
+ *69*- Dr./Dra. MERCHAN BENAVIDES, ERICK ANDRES
+ *94*- Dr./Dra. RIVERA DIAZ, JUANA LUCIA
+ *111*- Dr./Dra. TRAETTA, LUIS ANDRES
+ *132*- Dr./Dra. VARGAS, MIKE",read,2022-01-03 17:28:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+844,Los Cedros,whatsapp:+5491120401203,130,received,2022-01-03 17:28:37+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,258,10
+845,Los Cedros,whatsapp:+5491120401203,"*Escribe el número de la opción* que quieres elegir: 
+ *123*- ALERGIA E INMUNOLOGIA
+ *124*- ARTROSCOPIA
+ *125*- AUDIOMETRIA
+ *126*- CARDIOLOGIA
+ *127*- CIRUGIA CABEZA Y CUELLO
+ *128*- CIRUGIA CARDIOVASCULAR CENTRAL
+ *129*- CIRUGIA CARDIOVASCULAR PERIFERICA Y FLEB
+ *130*- CIRUGIA GENERAL
+ *131*- CIRUGIA PLASTICA
+ *133*- ESTUDIOS
+ *134*- DERMATOLOGIA
+ *135*- DIABETOLOGIA
+ *137*- DOPPLER PERIFERICO
+ *139*- ECOCARDIOGRAMA DOPPLER / TRANSTORACICO
+ *144*- ELECTROMIOGRAMA
+ *145*- ENDOCRINODIABETOLOGIA
+ *146*- ENDOCRINOLOGIA
+ *150*- FLEBOLOGIA
+ *151*- GASTROENTEROLOGIA
+ *152*- GINECOLOGIA
+ *153*- GINECOLOGIA QUIRURGICA
+ *155*- HEMATOLOGIA
+ *159*- INFECTOLOGIA
+ *165*- NEFROLOGIA
+ *166*- NEUMONOLOGIA
+ *167*- NEUROCIRUGIA
+ *168*- NEUROLOGIA
+ *169*- NUTRICION
+ *173*- OTORRINOLARINGOLOGIA
+ *181*- REUMATOLOGIA
+ *185*- TRAUMATOLOGIA
+ *189*- UROLOGIA
+ *195*- PEDRIATRÍA",read,2022-01-03 17:28:25+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+846,Los Cedros,whatsapp:+5491120401203,Quedaron guardados tus datos.,read,2022-01-03 17:28:25+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+847,Los Cedros,whatsapp:+5491120401203,Si,received,2022-01-03 17:28:24+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,258,10
+848,Los Cedros,whatsapp:+5491120401203,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS 
+    Plan: CARTERA PROPIA 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:28:13+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+849,Los Cedros,whatsapp:+5491120401203,XXXXXXXXXXXXX,received,2022-01-03 17:28:12+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,258,10
+850,Los Cedros,whatsapp:+5491120401203,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:27:51+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+851,Los Cedros,whatsapp:+5491120401203,Ya te encontrás registrado.,read,2022-01-03 17:27:51+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+852,Los Cedros,whatsapp:+5491120401203,XXXXXXX,received,2022-01-03 17:27:48+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,258,10
+853,Los Cedros,whatsapp:+5491120401203,"Necesito tu DNI, por favor.",read,2022-01-03 17:27:38+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+854,Los Cedros,whatsapp:+5491120401203,Sacar turno,received,2022-01-03 17:27:37+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,258,10
+855,Los Cedros,whatsapp:+5491120401203,"Hola, soy el asistente virtual de Clinica Los Cedros.  
+   
+Podés preguntarme información sobre Clinica Los Cedros, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:27:22+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+856,Los Cedros,whatsapp:+5491120401203,Tu sesión se ha reinciado por tiempo de inactividad. Voy a tener que pedirte tus datos nuevamente 📝,read,2022-01-03 17:27:22+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,233
+857,Los Cedros,whatsapp:+5491120401203,Hola,received,2022-01-03 17:27:21+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,258,10
+858,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:23:13+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+859,Carra,whatsapp:+5493515266217," tu turno de Ginecologia ha sido confirmado para la fecha 05/01/2022 a las 17:30 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Giraudo, Pablo",read,2022-01-03 17:23:13+00:00,2022-01-03,3,1,17,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+860,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:23:11+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+861,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: Ginecologia 
+  Doctor: Giraudo, Pablo 
+  Fecha y hora: 05/01/2022 a las 17:30 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:22:57+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+862,Carra,whatsapp:+5493515266217,4,received,2022-01-03 17:22:57+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+863,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 04/01/2022 a las 17:45 hrs
+ *2*- 04/01/2022 a las 19:15 hrs
+ *3*- 05/01/2022 a las 11:00 hrs
+ *4*- 05/01/2022 a las 17:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:22:29+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+864,Carra,whatsapp:+5493515266217,5,received,2022-01-03 17:22:28+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+865,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 19/01/2022 a las 10:00 hrs
+ *2*- 19/01/2022 a las 10:45 hrs
+ *3*- 19/01/2022 a las 17:30 hrs
+ *4*- Mostrar más fechas
+ *5*- Mostrar fechas anteriores
+ *6*- Volver atrás",read,2022-01-03 17:22:19+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+866,Carra,whatsapp:+5493515266217,37,received,2022-01-03 17:22:17+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+867,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *34*- Dr./Dra. Stilman, Gustavo
+ *35*- Dr./Dra. Kohan Boc, Saul Alberto
+ *36*- Dr./Dra. Gastaldello, Victoria
+ *37*- Dr./Dra. Giraudo, Pablo
+ *38*- Dr./Dra. Marchesini, Julio",read,2022-01-03 17:22:10+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+868,Carra,whatsapp:+5493515266217,6,received,2022-01-03 17:22:09+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+869,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 19/01/2022 a las 10:00 hrs
+ *2*- 19/01/2022 a las 10:45 hrs
+ *3*- 19/01/2022 a las 17:30 hrs
+ *4*- Mostrar más fechas
+ *5*- Mostrar fechas anteriores
+ *6*- Volver atrás",read,2022-01-03 17:21:09+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+870,Carra,whatsapp:+5493515266217,5,received,2022-01-03 17:21:08+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+871,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 04/01/2022 a las 17:45 hrs
+ *2*- 04/01/2022 a las 19:15 hrs
+ *3*- 05/01/2022 a las 11:00 hrs
+ *4*- 05/01/2022 a las 17:30 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:20:41+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+872,Carra,whatsapp:+5493515266217,37,received,2022-01-03 17:20:39+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+873,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *34*- Dr./Dra. Stilman, Gustavo
+ *35*- Dr./Dra. Kohan Boc, Saul Alberto
+ *36*- Dr./Dra. Gastaldello, Victoria
+ *37*- Dr./Dra. Giraudo, Pablo
+ *38*- Dr./Dra. Marchesini, Julio",read,2022-01-03 17:20:19+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+874,Carra,whatsapp:+5493515266217,139,received,2022-01-03 17:20:19+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+875,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 17:20:05+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+876,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 17:20:05+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+877,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:20:05+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+878,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: PREVENCION SALUD 
+    Plan: GRAVADO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:19:54+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+879,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-01-03 17:19:53+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+880,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:19:30+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+881,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 17:19:30+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+882,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 17:19:28+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+883,Los Cedros,whatsapp:+5491120401203,No se pudo enviar el mensaje,read,2022-01-03 17:19:20+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+884,Los Cedros,whatsapp:+5491120401203,XXX,received,2022-01-03 17:19:19+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,346,10
+885,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 17:19:15+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+886,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 17:19:14+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+887,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:18:55+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3515
+888,Carra,whatsapp:+5493515266217,Hola,received,2022-01-03 17:18:54+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3746,2121
+889,Los Cedros,whatsapp:+5491120401203,No se pudo enviar el mensaje,read,2022-01-03 17:18:22+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+890,Los Cedros,whatsapp:+5491120401203,XXX,received,2022-01-03 17:18:19+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,346,10
+891,Los Cedros,whatsapp:+5491120401203,"Buenas tardes, necesito un turno para tomografía computada",received,2022-01-03 17:17:46+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,346,10
+892,Los Cedros,whatsapp:+5491120401203,"Fuiste transferido a un humano, por favor escribí tu consulta.",read,2022-01-03 17:17:14+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,['fuiste transferido a un humano'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+893,Los Cedros,whatsapp:+5491120401203,Para prácticas puedes dirigirte en forma presencial a nuestro centro de atención. El tiempo de atención para los operadores es de 10 minutos.,read,2022-01-03 17:17:14+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+894,Los Cedros,whatsapp:+5491120401203,"Por la opción elegida, te transferiré con una persona que te tomará el resto de los datos de la cita. ¡Gracias!",read,2022-01-03 17:17:14+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+895,Los Cedros,whatsapp:+5491120401203,133,received,2022-01-03 17:17:13+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,346,10
+896,Los Cedros,whatsapp:+5491120401203,"*Escribe el número de la opción* que quieres elegir: 
+ *123*- ALERGIA E INMUNOLOGIA
+ *124*- ARTROSCOPIA
+ *125*- AUDIOMETRIA
+ *126*- CARDIOLOGIA
+ *127*- CIRUGIA CABEZA Y CUELLO
+ *128*- CIRUGIA CARDIOVASCULAR CENTRAL
+ *129*- CIRUGIA CARDIOVASCULAR PERIFERICA Y FLEB
+ *130*- CIRUGIA GENERAL
+ *131*- CIRUGIA PLASTICA
+ *133*- ESTUDIOS
+ *134*- DERMATOLOGIA
+ *135*- DIABETOLOGIA
+ *137*- DOPPLER PERIFERICO
+ *139*- ECOCARDIOGRAMA DOPPLER / TRANSTORACICO
+ *144*- ELECTROMIOGRAMA
+ *145*- ENDOCRINODIABETOLOGIA
+ *146*- ENDOCRINOLOGIA
+ *150*- FLEBOLOGIA
+ *151*- GASTROENTEROLOGIA
+ *152*- GINECOLOGIA
+ *153*- GINECOLOGIA QUIRURGICA
+ *155*- HEMATOLOGIA
+ *159*- INFECTOLOGIA
+ *165*- NEFROLOGIA
+ *166*- NEUMONOLOGIA
+ *167*- NEUROCIRUGIA
+ *168*- NEUROLOGIA
+ *169*- NUTRICION
+ *173*- OTORRINOLARINGOLOGIA
+ *181*- REUMATOLOGIA
+ *185*- TRAUMATOLOGIA
+ *189*- UROLOGIA
+ *195*- PEDRIATRÍA",read,2022-01-03 17:17:05+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+897,Los Cedros,whatsapp:+5491120401203,Quedaron guardados tus datos.,read,2022-01-03 17:17:05+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+898,Los Cedros,whatsapp:+5491120401203,Si,received,2022-01-03 17:17:04+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,346,10
+899,Los Cedros,whatsapp:+5491120401203,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS 
+    Plan: CARTERA PROPIA 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:16:57+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+900,Los Cedros,whatsapp:+5491120401203,XXXXXXXXXXXXXX,received,2022-01-03 17:16:56+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,346,10
+901,Los Cedros,whatsapp:+5491120401203,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:16:40+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+902,Los Cedros,whatsapp:+5491120401203,Ya te encontrás registrado.,read,2022-01-03 17:16:39+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+903,Los Cedros,whatsapp:+5491120401203,XXXXXXXX,received,2022-01-03 17:16:34+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,346,10
+904,Los Cedros,whatsapp:+5491120401203,"Necesito tu DNI, por favor.",read,2022-01-03 17:16:21+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,12,316
+905,Los Cedros,whatsapp:+5491120401203,Sacar turno,received,2022-01-03 17:16:21+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,346,10
+906,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 17:11:32+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+907,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 17:11:32+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3741,2121
+908,CityBell,whatsapp:+5492215137770,"Fuiste transferido a un humano, por favor escribí tu consulta.",read,2022-01-03 17:11:23+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,['fuiste transferido a un humano'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+909,CityBell,whatsapp:+5492215137770,"Las siguientes prácticas requieren que el turno lo saques por whatsapp en: [Eco Doppler Cardíaco](https://walink.co/728917), [Mamografía](https://walink.co/b7d460), [Resonancia](https://walink.co/0748ed).",read,2022-01-03 17:11:23+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+910,CityBell,whatsapp:+5492215137770,"Por la opción elegida, te transferiré con una persona que te tomará el resto de los datos de la cita. ¡Gracias!",read,2022-01-03 17:11:23+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+911,CityBell,whatsapp:+5492215137770,305,received,2022-01-03 17:11:22+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1896,1072
+912,CityBell,whatsapp:+5492215137770,Quedaron guardados tus datos.,read,2022-01-03 17:11:12+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+913,CityBell,whatsapp:+5492215137770,"*Escribe el número de la opción* que quieres elegir: 
+ *132*- CIRUGIA
+ *134*- CARDIOLOGIA
+ *142*- PEDIATRIA
+ *143*- TRAUMATOLOGIA
+ *145*- OBSTETRICIA
+ *147*- GINECOLOGIA
+ *148*- OTORRINOLARINGOLOGIA
+ *149*- OFTALMOLOGIA
+ *150*- CLINICA MEDICA
+ *152*- NEUMONOLOGIA
+ *154*- ONCOLOGIA
+ *156*- UROLOGIA
+ *157*- DERMATOLOGIA
+ *158*- NEUROCIRUGIA
+ *159*- NEUROLOGIA
+ *160*- REUMATOLOGIA
+ *172*- INFECTOLOGIA
+ *173*- NUTRICION
+ *196*- GASTROENTEROLOGIA
+ *205*- CIRUGIA PLASTICA
+ *246*- MASTOLOGIA
+ *247*- NUTRICION INFANTIL
+ *300*- MAMOGRAFIA
+ *301*- ECODOPPLER CARDIACO
+ *302*- ECOGRAFIA GENERAL
+ *303*- ECOGRAFIA MUSCULAR
+ *304*- ECOGRAFIA PEDIATRICA
+ *305*- RESONANCIA",read,2022-01-03 17:11:12+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+914,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:11:11+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+915,Carra,whatsapp:+5493515266217," tu turno de Traumatologia ha sido confirmado para la fecha 18/01/2022 a las 15:45 hrs, en Carrá, Bv. 9 de Julio 1501, S.Francisco, con Dr./Dra. Giraudo, Fernando",read,2022-01-03 17:11:11+00:00,2022-01-03,3,1,17,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+916,CityBell,whatsapp:+5492215137770,Si,received,2022-01-03 17:11:11+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1896,1072
+917,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:11:09+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+918,CityBell,whatsapp:+5492215137770,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: I.O.M.A. ( AF. OBLIGATORIOS ) 
+    Plan: GENERAL 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:11:07+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+919,CityBell,whatsapp:+5492215137770,XXXXXXXXXXXXX,received,2022-01-03 17:11:07+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1896,1072
+920,CityBell,whatsapp:+5492215137770,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:10:59+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+921,CityBell,whatsapp:+5492215137770,Ya te encontrás registrado.,read,2022-01-03 17:10:59+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+922,CityBell,whatsapp:+5492215137770,XXXXXXXX,received,2022-01-03 17:10:57+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1896,1072
+923,CityBell,whatsapp:+5492215137770,"Necesito tu DNI, por favor.",read,2022-01-03 17:10:52+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+924,CityBell,whatsapp:+5492215137770,Sacar turno,received,2022-01-03 17:10:51+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1896,1072
+925,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Clinica Citybell.  
+   
+Podés preguntarme información sobre Clinica Citybell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:10:44+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+926,CityBell,whatsapp:+5492215137770,Reiniciar,received,2022-01-03 17:10:44+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1896,1072
+927,CityBell,whatsapp:+5492215137770,"*Escriba la opción* que usted quiere realizar:  
+▪️ Quiero cambiar el medico.
+▪️ Mi obra social es Sacar
+▪️ *Reiniciar* la conversación. 
+▪️ Quiero comunicarme con un *operador humano*.",read,2022-01-03 17:10:22+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+928,CityBell,whatsapp:+5492215137770,"Perdón, no sé si entendí correctamente 🤔 Tu intención es decir...",read,2022-01-03 17:10:22+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+929,CityBell,whatsapp:+5492215137770,Sacar,received,2022-01-03 17:10:21+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1896,1072
+930,CityBell,whatsapp:+5492215137770,"Hola, soy el asistente virtual de Clinica Citybell.  
+   
+Podés preguntarme información sobre Clinica Citybell, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:10:17+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+931,CityBell,whatsapp:+5492215137770,Tu sesión se ha reinciado por tiempo de inactividad. Voy a tener que pedirte tus datos nuevamente 📝,read,2022-01-03 17:10:17+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1145,1781
+932,CityBell,whatsapp:+5492215137770,Hol,received,2022-01-03 17:10:16+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,1896,1072
+933,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son: 
+  Sede: Carrá, Bv. 9 de Julio 1501, S.Francisco 
+  Especialidad: Traumatologia 
+  Doctor: Giraudo, Fernando 
+  Fecha y hora: 18/01/2022 a las 15:45 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:05:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+934,Carra,whatsapp:+5493515266217,2,received,2022-01-03 17:05:36+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+935,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 17/01/2022 a las 16:30 hrs
+ *2*- 18/01/2022 a las 15:45 hrs
+ *3*- 18/01/2022 a las 17:00 hrs
+ *4*- 18/01/2022 a las 17:45 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:05:21+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+936,Carra,whatsapp:+5493515266217,74,received,2022-01-03 17:05:20+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+937,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *70*- Dr./Dra. Galassi, Carlos
+ *71*- Dr./Dra. Giubilatto, Daniel
+ *72*- Dr./Dra. Pages, Andres
+ *73*- Dr./Dra. Bartolomeo, Cesar
+ *74*- Dr./Dra. Giraudo, Fernando",read,2022-01-03 17:05:17+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+938,Carra,whatsapp:+5493515266217,6,received,2022-01-03 17:05:16+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+939,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 06/01/2022 a las 16:35 hrs
+ *2*- 06/01/2022 a las 17:35 hrs
+ *3*- 06/01/2022 a las 18:35 hrs
+ *4*- 10/01/2022 a las 17:40 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:05:06+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+940,Carra,whatsapp:+5493515266217,73,received,2022-01-03 17:05:05+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+941,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *70*- Dr./Dra. Galassi, Carlos
+ *71*- Dr./Dra. Giubilatto, Daniel
+ *72*- Dr./Dra. Pages, Andres
+ *73*- Dr./Dra. Bartolomeo, Cesar
+ *74*- Dr./Dra. Giraudo, Fernando",read,2022-01-03 17:04:58+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+942,Carra,whatsapp:+5493515266217,163,received,2022-01-03 17:04:57+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+943,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 17:04:45+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+944,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 17:04:45+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+945,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:04:44+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+946,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: SANCOR SALUD 
+    Plan: 4000-3000-2000 GRAVADO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:04:40+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+947,Carra,whatsapp:+5493515266217,89,received,2022-01-03 17:04:39+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+948,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *89*- 4000-3000-2000 GRAVADO
+ *90*- 4000-3000-2000 EXENTO
+ *91*- 1000-1500-500 GRAVADO
+ *92*- 1000-1500-500- C EXENTO
+ *93*- 800-700 EXENTO
+ *133*- 800-700 GRAVADO",read,2022-01-03 17:04:28+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+949,Carra,whatsapp:+5493515266217,8119,received,2022-01-03 17:04:27+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+950,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *8068*- AMUR
+ *8097*- APM
+ *8066*- APROSS
+ *8069*- ASOCIART
+ *8100*- ATSA
+ *8065*- AVALIAN
+ *8070*- BOREAL
+ *8071*- CAJA DE ABOGADOS
+ *8072*- CAJA NOTARIAL
+ *8073*- CAMI
+ *8074*- CENTRO ASISTENCIAL
+ *8076*- COMFYE
+ *8135*- COOP. PATRONAL
+ *8075*- CPCE
+ *8077*- DASUTEN
+ *8078*- FEDERADA SALUD
+ *8079*- GALENO ART
+ *8111*- GASTRONOMICOS
+ *8080*- GEA
+ *8081*- JERARQUICOS SALUD
+ *8082*- LA SEGUNDA A.R.T.
+ *8083*- LA SEGUNDA CIA
+ *8134*- LUZ Y FUERZA
+ *8084*- MAPFRE
+ *8088*- MEDICAR WORK
+ *8086*- MET
+ *8087*- NOBIS
+ *8098*- OBRA SOC.PODER JUDICIAL NACION
+ *8102*- OMINT
+ *8101*- OMINT ART
+ *8095*- OSADEF
+ *8105*- OSDE
+ *8099*- OSDOP
+ *8118*- OSFATLYF
+ *8106*- OSITAC
+ *8090*- OSPE
+ *8107*- OSPECOR
+ *8103*- OSPEP
+ *8108*- OSPERSAAMS
+ *8109*- OSPIF
+ *8104*- OSPIL
+ *8110*- OSPIM
+ *8093*- OSPIP
+ *8132*- OSSACRA
+ *8089*- OSSEG
+ *8112*- PAMI
+ *8113*- PARTICULAR
+ *8133*- PRENSA
+ *8136*- PREOCUPACIONAL
+ *8114*- PREVENCION A.R.T.
+ *8115*- PREVENCION SALUD
+ *8116*- PREVENCION SALUD  CARRA
+ *8119*- SANCOR SALUD
+ *8120*- SANCOR SEGUROS
+ *8121*- SEGUROS EL NORTE
+ *8122*- SIPS S.A.
+ *8124*- SUME SALUD
+ *8126*- SWISS MEDICAL
+ *8125*- SWISS MEDICAL ART
+ *8091*- UOM
+ *8127*- VISITAR SRL",read,2022-01-03 17:04:21+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+951,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-01-03 17:04:20+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+952,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 17:04:07+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+953,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 17:04:07+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+954,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 17:04:05+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+955,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 17:04:00+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+956,Carra,whatsapp:+5493515266217,Sacar turno,received,2022-01-03 17:04:00+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+957,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:03:55+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+958,Carra,whatsapp:+5493515266217,Tu sesión se ha reinciado por tiempo de inactividad. Voy a tener que pedirte tus datos nuevamente 📝,read,2022-01-03 17:03:55+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3553
+959,Carra,whatsapp:+5493515266217,Hola,received,2022-01-03 17:03:54+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3787,2121
+960,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:03:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2624
+961,Salud Consultorios,whatsapp:+5493515266230,Si ud. tiene la obra social OSCEARA u OSPECOR por favor escriba “Quiero hablar con un operador” para realizar la correcta autorización,read,2022-01-03 17:03:37+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2624
+962,Salud Consultorios,whatsapp:+5493515266230," tu turno de Dermatologia ha sido confirmado para la fecha 10/01/2022 a las 15:01 hrs, en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, con Dr./Dra. MARZARI, MARIA CLARA",read,2022-01-03 17:03:37+00:00,2022-01-03,3,1,17,1,outbound-api,[' ha sido confirmado'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2624
+963,Salud Consultorios,whatsapp:+5493515266230,Si,received,2022-01-03 17:03:33+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2801,2122
+964,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:01:01+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2321
+965,Salud Consultorios,whatsapp:+5493515266230,Quedó cancelado tu turno de GINECOLOGIA con Dr./Dra. CAPOVILLA CLAUDIA PATRICIA para el día 05/01/2022 a las 11:40 hrs.,read,2022-01-03 17:01:01+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,['cancelado tu turno de'],1,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2321
+966,Salud Consultorios,whatsapp:+5493515266230,Si,received,2022-01-03 17:00:59+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2461,2122
+967,Salud Consultorios,whatsapp:+5493515266230,¿Querés cancelar el turno de GINECOLOGIA con Dr./Dra. CAPOVILLA CLAUDIA PATRICIA para el día 05/01/2022 a las 11:40 hrs? Escribí si o no.,read,2022-01-03 17:00:52+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2321
+968,Salud Consultorios,whatsapp:+5493515266230,1,received,2022-01-03 17:00:51+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2461,2122
+969,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 06/01/2022 a las 16:35 hrs
+ *2*- 06/01/2022 a las 17:35 hrs
+ *3*- 06/01/2022 a las 18:35 hrs
+ *4*- 10/01/2022 a las 17:40 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 17:00:44+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+970,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- ● Turno: GINECOLOGIA con Dr./Dra. CAPOVILLA CLAUDIA PATRICIA el día 05/01/2022 a las 11:40 hrs en Tucumán 98 Esq.Bs.As., Villa Carlos Paz, .",read,2022-01-03 17:00:43+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2321
+971,Carra,whatsapp:+5493515266217,73,received,2022-01-03 17:00:41+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3802,2121
+972,Salud Consultorios,whatsapp:+5493515266230,XXXXXXXX,received,2022-01-03 17:00:37+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2461,2122
+973,Salud Consultorios,whatsapp:+5493515266230,"Necesito tu DNI, por favor.",read,2022-01-03 17:00:32+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2321
+974,Salud Consultorios,whatsapp:+5493515266230,Cancelar turno,received,2022-01-03 17:00:31+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2461,2122
+975,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *70*- Dr./Dra. Galassi, Carlos
+ *71*- Dr./Dra. Giubilatto, Daniel
+ *72*- Dr./Dra. Pages, Andres
+ *73*- Dr./Dra. Bartolomeo, Cesar
+ *74*- Dr./Dra. Giraudo, Fernando",read,2022-01-03 17:00:31+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+976,Carra,whatsapp:+5493515266217,163,received,2022-01-03 17:00:31+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3802,2121
+977,Salud Consultorios,whatsapp:+5493515266230,"¡Muchas gracias! Tus datos son: 
+  Sede: Tucumán 98 Esq.Bs.As., Villa Carlos Paz 
+  Especialidad: Dermatologia 
+  Doctor: MARZARI, MARIA CLARA 
+  Fecha y hora: 10/01/2022 a las 15:01 hrs 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:00:17+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2624
+978,Salud Consultorios,whatsapp:+5493515266230,2,received,2022-01-03 17:00:17+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2801,2122
+979,Carra,whatsapp:+5493515266217,Quedaron guardados tus datos.,read,2022-01-03 17:00:14+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+980,Carra,whatsapp:+5493515266217,"*Escribe el número de la opción* que quieres elegir: 
+ *124*- ALIMENTACION Y NUTRICION
+ *128*- CARDIOLOGIA
+ *130*- CIRUGIA GENERAL Y LAPAROSCOPICA
+ *132*- CLINICA MEDICA
+ *133*- DERMATOLOGIA
+ *134*- DIABETOLOGIA
+ *135*- ECOGRAFIA
+ *136*- ENDOCRINOLOGIA
+ *138*- GASTROENTEROLOGIA
+ *139*- GINECOLOGIA
+ *149*- NEUMONOLOGIA
+ *151*- NEUROLOGIA
+ *154*- OFTALMOLOGIA
+ *156*- OTORRINOLARINGOLOGIA
+ *157*- PEDIATRIA
+ *159*- REUMATOLOGIA
+ *163*- TRAUMATOLOGIA
+ *164*- UROLOGIA
+ *203*- CIRUGIA VASCULAR
+ *204*- CIRUGIA CARDIOVASCULAR
+ *205*- CARDIOLOGIA INFANTIL
+ *206*- RADIOLOGIA
+ *208*- TOMOGRAFIA
+ *209*- ARRITMOLOGIA
+ *210*- FONOAUDIOLOGIA
+ *211*- HEMATOLOGIA
+ *212*- HEMODINAMIA
+ *213*- MAMOGRAFIA
+ *214*- MEDICINA DEL DEPORTE
+ *215*- MEDICINA LABORAL
+ *219*- ODONTOLOGIA
+ *220*- ONCOLOGIA",read,2022-01-03 17:00:14+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+981,Salud Consultorios,whatsapp:+5493515266230,"Hola, soy el asistente virtual de Salud Consultorios.  
+ Podés acceder a este link para la autogestión de tus turnos web: http://turnero.saludconsultorios.com.ar/#!Turn/IndicatePatient  
+Podés preguntarme información sobre Salud Consultorios, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 17:00:14+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2321
+982,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 17:00:13+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3802,2121
+983,Salud Consultorios,whatsapp:+5493515266230,Hola,received,2022-01-03 17:00:13+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2461,2122
+984,Carra,whatsapp:+5493515266217,"¡Muchas gracias! Tus datos son:  
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Obra social: LA SEGUNDA A.R.T. 
+    Plan: PLAN UNICO 
+▫️ Si querés confirmar escribí SI 
+▫️ Si querés cancelar escribí NO 
+▫️ Si querés cambiar un dato indicame cual",read,2022-01-03 17:00:01+00:00,2022-01-03,3,1,17,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+985,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXX,received,2022-01-03 17:00:01+00:00,2022-01-03,3,1,17,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3802,2121
+986,Carra,whatsapp:+5493515266217,"Necesito tu número de teléfono, por favor. Con formato de código de país (549), característica y número. Por ejemplo: 5491234567890",read,2022-01-03 16:59:36+00:00,2022-01-03,3,1,16,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+987,Carra,whatsapp:+5493515266217,Ya te encontrás registrado.,read,2022-01-03 16:59:36+00:00,2022-01-03,3,1,16,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+988,Carra,whatsapp:+5493515266217,XXXXXXXX,received,2022-01-03 16:59:34+00:00,2022-01-03,3,1,16,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3802,2121
+989,Carra,whatsapp:+5493515266217,"Necesito tu DNI, por favor.",read,2022-01-03 16:59:19+00:00,2022-01-03,3,1,16,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+990,Carra,whatsapp:+5493515266217,Faltan algunos datos necesarios para que Clinica Carra complete su solicitud. Le pediré que los ingrese:,read,2022-01-03 16:59:19+00:00,2022-01-03,3,1,16,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+991,Carra,whatsapp:+5493515266217,Tu sesión se ha reinciado por tiempo de inactividad. Voy a tener que pedirte tus datos nuevamente 📝,read,2022-01-03 16:59:19+00:00,2022-01-03,3,1,16,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3567
+992,Carra,whatsapp:+5493515266217,Si,received,2022-01-03 16:59:19+00:00,2022-01-03,3,1,16,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3802,2121
+993,Carra,whatsapp:+5493515266217,"Hola, soy el asistente virtual de Clinica Carra.  
+   
+Podés preguntarme información sobre Clinica Carra, o podés realizar alguna de estas acciones:
+ ▪️ Sacar turno
+ ▪️ Cancelar turno
+ ▪️ Consultar mis turnos
+ ▪️ Ayuda
+ *Escribí la acción* que querés realizar.",read,2022-01-03 16:55:04+00:00,2022-01-03,3,1,16,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2249,3510
+994,Carra,whatsapp:+5493515266217,XXXXXXXXXXXXXXX,received,2022-01-03 16:55:04+00:00,2022-01-03,3,1,16,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,3741,2121
+995,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *1*- 10/01/2022 a las 14:16 hrs
+ *2*- 10/01/2022 a las 15:01 hrs
+ *3*- 17/01/2022 a las 08:00 hrs
+ *4*- 17/01/2022 a las 08:45 hrs
+ *5*- Mostrar más fechas
+ *6*- Volver atrás",read,2022-01-03 16:51:01+00:00,2022-01-03,3,1,16,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2624
+996,Salud Consultorios,whatsapp:+5493515266230,73,received,2022-01-03 16:50:59+00:00,2022-01-03,3,1,16,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2801,2122
+997,Salud Consultorios,whatsapp:+5493515266230,"*Escribe el número de la opción* que quieres elegir: 
+ *73*- Dr./Dra. MARZARI, MARIA CLARA
+ *86*- Dr./Dra. MIR, MARIA SOLEDAD",read,2022-01-03 16:50:45+00:00,2022-01-03,3,1,16,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2624
+998,Salud Consultorios,whatsapp:+5493515266230,Quedaron guardados tus datos.,read,2022-01-03 16:50:45+00:00,2022-01-03,3,1,16,1,outbound-api,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2250,2624
+999,Salud Consultorios,whatsapp:+5493515266230,Si,received,2022-01-03 16:50:45+00:00,2022-01-03,3,1,16,1,inbound,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,[],0,2801,2122
