@@ -1,4 +1,8 @@
-jupyter-lab
+Cómo analizar datos provenientes de un asistente conversacional y no morir en el intento.
+
+Mentor/a: Karen Palacio
+
+Mail de contacto: karen.palacio@kunan.com.ar
 
 # Introducción
 
